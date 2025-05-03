@@ -1,0 +1,49 @@
+command_id: 7DF.22F42F
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80462F42FA3
+  expected_values:
+    FORD_FLI_v2: 163
+- response: 7E80462F42FA4
+  expected_values:
+    FORD_FLI_v2: 164
+- response: 7E80462F42FA5
+  expected_values:
+    FORD_FLI_v2: 165
+- response: 7E80462F42FA6
+  expected_values:
+    FORD_FLI_v2: 166
+- response: 7E80462F42FA7
+  expected_values:
+    FORD_FLI_v2: 167
+- response: 7E80462F42FA8
+  expected_values:
+    FORD_FLI_v2: 168
+- response: 7E80462F42FA9
+  expected_values:
+    FORD_FLI_v2: 169
+- response: 7E80462F42FAA
+  expected_values:
+    FORD_FLI_v2: 170
+- response: 7E80462F42FAB
+  expected_values:
+    FORD_FLI_v2: 171
+- response: 7E80462F42FAC
+  expected_values:
+    FORD_FLI_v2: 172
+- response: 7E80462F42FAD
+  expected_values:
+    FORD_FLI_v2: 173
+- response: 7E80462F42FAE
+  expected_values:
+    FORD_FLI_v2: 174
+- response: 7E80462F42FAF
+  expected_values:
+    FORD_FLI_v2: 175
+- response: 7E80462F42FB0
+  expected_values:
+    FORD_FLI_v2: 176
+- response: 7E80462F42FB1
+  expected_values:
+    FORD_FLI_v2: 177

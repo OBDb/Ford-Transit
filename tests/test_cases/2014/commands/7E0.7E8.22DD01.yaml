@@ -1,0 +1,25 @@
+command_id: 7E0.7E8.22DD01
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80662DD0103F222
+  expected_values:
+    FORD_ODO: 258594
+- response: 7E80662DD0103F223
+  expected_values:
+    FORD_ODO: 258595
+- response: 7E80662DD0103F224
+  expected_values:
+    FORD_ODO: 258596
+- response: 7E80662DD0103F229
+  expected_values:
+    FORD_ODO: 258601
+- response: 7E80662DD0103F22A
+  expected_values:
+    FORD_ODO: 258602
+- response: 7E80662DD0103F22D
+  expected_values:
+    FORD_ODO: 258605
+- response: 7E80662DD0103F22E
+  expected_values:
+    FORD_ODO: 258606

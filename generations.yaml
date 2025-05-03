@@ -1,0 +1,20 @@
+generations:
+  - name: "First Generation"
+    start_year: 1965
+    end_year: 1986
+    description: "The original Ford Transit revolutionized the European van market with car-like driving dynamics and styling that contrasted with the forward-control designs common at the time. Available in numerous configurations including panel van, minibus, pickup, and chassis cab, it featured front engine/rear-wheel drive architecture. Initial engines included V4 units with diesel options added later. The Transit gained a reputation for versatility, durability, and relative driving pleasure compared to competitors. During its extensive production run, it received multiple updates to styling, powertrains, and capabilities. This generation established the Transit as Ford's flagship commercial vehicle in Europe and created the template for modern delivery vans."
+
+  - name: "Second Generation"
+    start_year: 1986
+    end_year: 2000
+    description: "The second-generation Transit (often called the Mark 3 in the UK due to major Mark 2 updates to the first generation) featured a completely new exterior design with improved aerodynamics while maintaining the front-engine, rear-wheel drive layout. Available in various wheelbases, roof heights, and body configurations, it continued the versatile approach of its predecessor. Engine options expanded to include improved diesels and petrol options. The interior saw significant improvements in comfort and ergonomics as commercial vehicles began incorporating more car-like features. This generation further solidified the Transit's dominant position in European markets and expanded into global markets, becoming one of the world's best-selling commercial vehicles."
+
+  - name: "Third Generation"
+    start_year: 2000
+    end_year: 2013
+    description: "The third-generation Transit represented a significant modernization with a more rounded, contemporary design. It introduced front-wheel drive variants alongside the traditional rear-wheel drive models, plus all-wheel drive options for specific applications. Available in an extensive range of configurations, it further expanded the Transit's versatility. Engine options focused increasingly on turbodiesel units for improved efficiency and torque, with the Duratorq TDCi engines becoming the mainstay of the range. The interior adopted a more car-like approach with improved comfort, materials, and technology. This generation became increasingly global, though North America continued with the domestically-developed E-Series vans until 2014."
+
+  - name: "Fourth Generation"
+    start_year: 2013
+    end_year: null
+    description: "The current Transit is a truly global vehicle, replacing both the European Transit and North American E-Series as part of Ford's One Ford strategy. Available in multiple size categories (Transit Custom for midsize applications and full-size Transit), it offers front-wheel, rear-wheel, and all-wheel drive configurations depending on model and market. Engine options vary globally but focus on efficient diesels like the EcoBlue range in Europe and EcoBoost gasoline engines in North America, with electric variants introduced more recently. The interior features significant improvements in technology, comfort, and safety with features like SYNC infotainment systems and comprehensive driver assistance options. Available in countless configurations including panel van, minibus, chassis cab, and more specialized applications, the fourth-generation Transit maintains its position as one of the world's most versatile and popular commercial vehicles. A significant facelift in 2019 updated styling and technology while adding hybrid options."

@@ -1,0 +1,7 @@
+command_id: 726.22C154
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 72E0762C15400000000
+  expected_values:
+    FORD_HOOD_OPEN: 0

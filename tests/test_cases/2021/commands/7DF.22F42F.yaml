@@ -1,0 +1,336 @@
+command_id: 7DF.22F42F
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80462F42F4F
+  expected_values:
+    FORD_FLI_V2: 79
+    FORD_FLI_v2: 79
+- response: 7E80462F42F6D
+  expected_values:
+    FORD_FLI_V2: 109
+    FORD_FLI_v2: 109
+- response: 7E80462F42F6E
+  expected_values:
+    FORD_FLI_V2: 110
+    FORD_FLI_v2: 110
+- response: 7E80462F42F78
+  expected_values:
+    FORD_FLI_V2: 120
+    FORD_FLI_v2: 120
+- response: 7E80462F42F7B
+  expected_values:
+    FORD_FLI_V2: 123
+    FORD_FLI_v2: 123
+- response: 7E80462F42F7D
+  expected_values:
+    FORD_FLI_V2: 125
+    FORD_FLI_v2: 125
+- response: 7E80462F42F82
+  expected_values:
+    FORD_FLI_V2: 130
+    FORD_FLI_v2: 130
+- response: 7E80462F42F86
+  expected_values:
+    FORD_FLI_V2: 134
+    FORD_FLI_v2: 134
+- response: 7E80462F42F88
+  expected_values:
+    FORD_FLI_V2: 136
+    FORD_FLI_v2: 136
+- response: 7E80462F42F8D
+  expected_values:
+    FORD_FLI_V2: 141
+    FORD_FLI_v2: 141
+- response: 7E80462F42F8E
+  expected_values:
+    FORD_FLI_V2: 142
+    FORD_FLI_v2: 142
+- response: 7E80462F42F92
+  expected_values:
+    FORD_FLI_V2: 146
+    FORD_FLI_v2: 146
+- response: 7E80462F42F93
+  expected_values:
+    FORD_FLI_V2: 147
+    FORD_FLI_v2: 147
+- response: 7E80462F42F94
+  expected_values:
+    FORD_FLI_V2: 148
+    FORD_FLI_v2: 148
+- response: 7E80462F42F95
+  expected_values:
+    FORD_FLI_V2: 149
+    FORD_FLI_v2: 149
+- response: 7E80462F42F99
+  expected_values:
+    FORD_FLI_V2: 153
+    FORD_FLI_v2: 153
+- response: 7E80462F42F9A
+  expected_values:
+    FORD_FLI_V2: 154
+    FORD_FLI_v2: 154
+- response: 7E80462F42F9B
+  expected_values:
+    FORD_FLI_V2: 155
+    FORD_FLI_v2: 155
+- response: 7E80462F42F9E
+  expected_values:
+    FORD_FLI_V2: 158
+    FORD_FLI_v2: 158
+- response: 7E80462F42F9F
+  expected_values:
+    FORD_FLI_V2: 159
+    FORD_FLI_v2: 159
+- response: 7E80462F42FA0
+  expected_values:
+    FORD_FLI_V2: 160
+    FORD_FLI_v2: 160
+- response: 7E80462F42FA1
+  expected_values:
+    FORD_FLI_V2: 161
+    FORD_FLI_v2: 161
+- response: 7E80462F42FA3
+  expected_values:
+    FORD_FLI_V2: 163
+    FORD_FLI_v2: 163
+- response: 7E80462F42FA4
+  expected_values:
+    FORD_FLI_V2: 164
+    FORD_FLI_v2: 164
+- response: 7E80462F42FA5
+  expected_values:
+    FORD_FLI_V2: 165
+    FORD_FLI_v2: 165
+- response: 7E80462F42FA6
+  expected_values:
+    FORD_FLI_V2: 166
+    FORD_FLI_v2: 166
+- response: 7E80462F42FA7
+  expected_values:
+    FORD_FLI_V2: 167
+    FORD_FLI_v2: 167
+- response: 7E80462F42FA8
+  expected_values:
+    FORD_FLI_V2: 168
+    FORD_FLI_v2: 168
+- response: 7E80462F42FA9
+  expected_values:
+    FORD_FLI_V2: 169
+    FORD_FLI_v2: 169
+- response: 7E80462F42FAA
+  expected_values:
+    FORD_FLI_V2: 170
+    FORD_FLI_v2: 170
+- response: 7E80462F42FAC
+  expected_values:
+    FORD_FLI_V2: 172
+    FORD_FLI_v2: 172
+- response: 7E80462F42FAD
+  expected_values:
+    FORD_FLI_V2: 173
+    FORD_FLI_v2: 173
+- response: 7E80462F42FAE
+  expected_values:
+    FORD_FLI_V2: 174
+    FORD_FLI_v2: 174
+- response: 7E80462F42FAF
+  expected_values:
+    FORD_FLI_V2: 175
+    FORD_FLI_v2: 175
+- response: 7E80462F42FB0
+  expected_values:
+    FORD_FLI_V2: 176
+    FORD_FLI_v2: 176
+- response: 7E80462F42FB1
+  expected_values:
+    FORD_FLI_V2: 177
+    FORD_FLI_v2: 177
+- response: 7E80462F42FB2
+  expected_values:
+    FORD_FLI_V2: 178
+    FORD_FLI_v2: 178
+- response: 7E80462F42FB3
+  expected_values:
+    FORD_FLI_V2: 179
+    FORD_FLI_v2: 179
+- response: 7E80462F42FB4
+  expected_values:
+    FORD_FLI_V2: 180
+    FORD_FLI_v2: 180
+- response: 7E80462F42FB5
+  expected_values:
+    FORD_FLI_V2: 181
+    FORD_FLI_v2: 181
+- response: 7E80462F42FB6
+  expected_values:
+    FORD_FLI_V2: 182
+    FORD_FLI_v2: 182
+- response: 7E80462F42FB7
+  expected_values:
+    FORD_FLI_V2: 183
+    FORD_FLI_v2: 183
+- response: 7E80462F42FB8
+  expected_values:
+    FORD_FLI_V2: 184
+    FORD_FLI_v2: 184
+- response: 7E80462F42FB9
+  expected_values:
+    FORD_FLI_V2: 185
+    FORD_FLI_v2: 185
+- response: 7E80462F42FBA
+  expected_values:
+    FORD_FLI_V2: 186
+    FORD_FLI_v2: 186
+- response: 7E80462F42FBD
+  expected_values:
+    FORD_FLI_V2: 189
+    FORD_FLI_v2: 189
+- response: 7E80462F42FBE
+  expected_values:
+    FORD_FLI_V2: 190
+    FORD_FLI_v2: 190
+- response: 7E80462F42FBF
+  expected_values:
+    FORD_FLI_V2: 191
+    FORD_FLI_v2: 191
+- response: 7E80462F42FC3
+  expected_values:
+    FORD_FLI_V2: 195
+    FORD_FLI_v2: 195
+- response: 7E80462F42FC4
+  expected_values:
+    FORD_FLI_V2: 196
+    FORD_FLI_v2: 196
+- response: 7E80462F42FC5
+  expected_values:
+    FORD_FLI_V2: 197
+    FORD_FLI_v2: 197
+- response: 7E80462F42FC6
+  expected_values:
+    FORD_FLI_V2: 198
+    FORD_FLI_v2: 198
+- response: 7E80462F42FC8
+  expected_values:
+    FORD_FLI_V2: 200
+    FORD_FLI_v2: 200
+- response: 7E80462F42FC9
+  expected_values:
+    FORD_FLI_V2: 201
+    FORD_FLI_v2: 201
+- response: 7E80462F42FCB
+  expected_values:
+    FORD_FLI_V2: 203
+    FORD_FLI_v2: 203
+- response: 7E80462F42FCC
+  expected_values:
+    FORD_FLI_V2: 204
+    FORD_FLI_v2: 204
+- response: 7E80462F42FCD
+  expected_values:
+    FORD_FLI_V2: 205
+    FORD_FLI_v2: 205
+- response: 7E80462F42FCE
+  expected_values:
+    FORD_FLI_V2: 206
+    FORD_FLI_v2: 206
+- response: 7E80462F42FD0
+  expected_values:
+    FORD_FLI_V2: 208
+    FORD_FLI_v2: 208
+- response: 7E80462F42FD2
+  expected_values:
+    FORD_FLI_V2: 210
+    FORD_FLI_v2: 210
+- response: 7E80462F42FD3
+  expected_values:
+    FORD_FLI_V2: 211
+    FORD_FLI_v2: 211
+- response: 7E80462F42FD4
+  expected_values:
+    FORD_FLI_V2: 212
+    FORD_FLI_v2: 212
+- response: 7E80462F42FD5
+  expected_values:
+    FORD_FLI_V2: 213
+    FORD_FLI_v2: 213
+- response: 7E80462F42FD6
+  expected_values:
+    FORD_FLI_V2: 214
+    FORD_FLI_v2: 214
+- response: 7E80462F42FD7
+  expected_values:
+    FORD_FLI_V2: 215
+    FORD_FLI_v2: 215
+- response: 7E80462F42FD8
+  expected_values:
+    FORD_FLI_V2: 216
+    FORD_FLI_v2: 216
+- response: 7E80462F42FD9
+  expected_values:
+    FORD_FLI_V2: 217
+    FORD_FLI_v2: 217
+- response: 7E80462F42FDB
+  expected_values:
+    FORD_FLI_V2: 219
+    FORD_FLI_v2: 219
+- response: 7E80462F42FDC
+  expected_values:
+    FORD_FLI_V2: 220
+    FORD_FLI_v2: 220
+- response: 7E80462F42FDD
+  expected_values:
+    FORD_FLI_V2: 221
+    FORD_FLI_v2: 221
+- response: 7E80462F42FDF
+  expected_values:
+    FORD_FLI_V2: 223
+    FORD_FLI_v2: 223
+- response: 7E80462F42FE0
+  expected_values:
+    FORD_FLI_V2: 224
+    FORD_FLI_v2: 224
+- response: 7E80462F42FE7
+  expected_values:
+    FORD_FLI_V2: 231
+    FORD_FLI_v2: 231
+- response: 7E80462F42FEC
+  expected_values:
+    FORD_FLI_V2: 236
+    FORD_FLI_v2: 236
+- response: 7E80462F42FED
+  expected_values:
+    FORD_FLI_V2: 237
+    FORD_FLI_v2: 237
+- response: 7E80462F42FEE
+  expected_values:
+    FORD_FLI_V2: 238
+    FORD_FLI_v2: 238
+- response: 7E80462F42FF3
+  expected_values:
+    FORD_FLI_V2: 243
+    FORD_FLI_v2: 243
+- response: 7E80462F42FF4
+  expected_values:
+    FORD_FLI_V2: 244
+    FORD_FLI_v2: 244
+- response: 7E80462F42FF5
+  expected_values:
+    FORD_FLI_V2: 245
+    FORD_FLI_v2: 245
+- response: 7E80462F42FF8
+  expected_values:
+    FORD_FLI_V2: 248
+    FORD_FLI_v2: 248
+- response: 7E80462F42FF9
+  expected_values:
+    FORD_FLI_V2: 249
+    FORD_FLI_v2: 249
+- response: 7E80462F42FFA
+  expected_values:
+    FORD_FLI_V2: 250
+    FORD_FLI_v2: 250
+- response: 7E80462F42FFB
+  expected_values:
+    FORD_FLI_V2: 251
+    FORD_FLI_v2: 251

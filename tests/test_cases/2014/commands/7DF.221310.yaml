@@ -1,0 +1,109 @@
+command_id: 7DF.221310
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80562131017D4
+  expected_values:
+    FORD_EOT: 23
+- response: '7E8056213101964'
+  expected_values:
+    FORD_EOT: 25
+- response: 7E8056213101A90
+  expected_values:
+    FORD_EOT: 26
+- response: 7E8056213101BBC
+  expected_values:
+    FORD_EOT: 27
+- response: 7E8056213101C20
+  expected_values:
+    FORD_EOT: 28
+- response: 7E8056213101D4C
+  expected_values:
+    FORD_EOT: 29
+- response: 7E8056213101DB0
+  expected_values:
+    FORD_EOT: 29
+- response: 7E8056213101E78
+  expected_values:
+    FORD_EOT: 30
+- response: 7E8056213101F40
+  expected_values:
+    FORD_EOT: 31
+- response: 7E8056213101FA4
+  expected_values:
+    FORD_EOT: 31
+- response: '7E8056213102008'
+  expected_values:
+    FORD_EOT: 32
+- response: 7E805621310206C
+  expected_values:
+    FORD_EOT: 32
+- response: 7E80562131020D0
+  expected_values:
+    FORD_EOT: 32
+- response: '7E8056213102134'
+  expected_values:
+    FORD_EOT: 33
+- response: '7E8056213102198'
+  expected_values:
+    FORD_EOT: 33
+- response: 7E80562131021FC
+  expected_values:
+    FORD_EOT: 33
+- response: '7E8056213102260'
+  expected_values:
+    FORD_EOT: 34
+- response: '7E8056213102328'
+  expected_values:
+    FORD_EOT: 35
+- response: 7E805621310238C
+  expected_values:
+    FORD_EOT: 35
+- response: 7E80562131023F0
+  expected_values:
+    FORD_EOT: 35
+- response: 7E805621310251C
+  expected_values:
+    FORD_EOT: 37
+- response: '7E8056213102648'
+  expected_values:
+    FORD_EOT: 38
+- response: 7E80562131026AC
+  expected_values:
+    FORD_EOT: 38
+- response: '7E8056213102710'
+  expected_values:
+    FORD_EOT: 39
+- response: 7E805621310283C
+  expected_values:
+    FORD_EOT: 40
+- response: 7E80562131028A0
+  expected_values:
+    FORD_EOT: 40
+- response: '7E8056213102904'
+  expected_values:
+    FORD_EOT: 41
+- response: '7E8056213102968'
+  expected_values:
+    FORD_EOT: 41
+- response: 7E80562131029CC
+  expected_values:
+    FORD_EOT: 41
+- response: 7E8056213102A30
+  expected_values:
+    FORD_EOT: 42
+- response: 7E8056213102AF8
+  expected_values:
+    FORD_EOT: 42
+- response: 7E8056213102CEC
+  expected_values:
+    FORD_EOT: 44
+- response: 7E8056213102DB4
+  expected_values:
+    FORD_EOT: 45
+- response: 7E8056213102E18
+  expected_values:
+    FORD_EOT: 46
+- response: 7E8056213102E7C
+  expected_values:
+    FORD_EOT: 46

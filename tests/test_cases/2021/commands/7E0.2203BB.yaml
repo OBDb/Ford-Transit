@@ -1,0 +1,352 @@
+command_id: 7E0.2203BB
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E8056203BB0000
+  expected_values:
+    FORD_VCT_EXH_DES: 0
+    FORD_[ECU] VCT Exh Des: 0
+- response: 7E8056203BB0004
+  expected_values:
+    FORD_VCT_EXH_DES: 0.25
+    FORD_[ECU] VCT Exh Des: 0.25
+- response: 7E8056203BB000D
+  expected_values:
+    FORD_VCT_EXH_DES: 0.8125
+    FORD_[ECU] VCT Exh Des: 0.8125
+- response: 7E8056203BB0016
+  expected_values:
+    FORD_VCT_EXH_DES: 1.375
+    FORD_[ECU] VCT Exh Des: 1.375
+- response: 7E8056203BB0048
+  expected_values:
+    FORD_VCT_EXH_DES: 4.5
+    FORD_[ECU] VCT Exh Des: 4.5
+- response: 7E8056203BB0062
+  expected_values:
+    FORD_VCT_EXH_DES: 6.125
+    FORD_[ECU] VCT Exh Des: 6.125
+- response: 7E8056203BB0067
+  expected_values:
+    FORD_VCT_EXH_DES: 6.4375
+    FORD_[ECU] VCT Exh Des: 6.4375
+- response: 7E8056203BB0082
+  expected_values:
+    FORD_VCT_EXH_DES: 8.125
+    FORD_[ECU] VCT Exh Des: 8.125
+- response: 7E8056203BB00AB
+  expected_values:
+    FORD_VCT_EXH_DES: 10.6875
+    FORD_[ECU] VCT Exh Des: 10.6875
+- response: 7E8056203BB00B0
+  expected_values:
+    FORD_VCT_EXH_DES: 11
+    FORD_[ECU] VCT Exh Des: 11
+- response: 7E8056203BB00B7
+  expected_values:
+    FORD_VCT_EXH_DES: 11.4375
+    FORD_[ECU] VCT Exh Des: 11.4375
+- response: 7E8056203BB00BF
+  expected_values:
+    FORD_VCT_EXH_DES: 11.9375
+    FORD_[ECU] VCT Exh Des: 11.9375
+- response: 7E8056203BB00DB
+  expected_values:
+    FORD_VCT_EXH_DES: 13.6875
+    FORD_[ECU] VCT Exh Des: 13.6875
+- response: 7E8056203BB00EF
+  expected_values:
+    FORD_VCT_EXH_DES: 14.9375
+    FORD_[ECU] VCT Exh Des: 14.9375
+- response: 7E8056203BB0127
+  expected_values:
+    FORD_VCT_EXH_DES: 18.4375
+    FORD_[ECU] VCT Exh Des: 18.4375
+- response: 7E8056203BB013C
+  expected_values:
+    FORD_VCT_EXH_DES: 19.75
+    FORD_[ECU] VCT Exh Des: 19.75
+- response: 7E8056203BB013F
+  expected_values:
+    FORD_VCT_EXH_DES: 19.9375
+    FORD_[ECU] VCT Exh Des: 19.9375
+- response: 7E8056203BB0140
+  expected_values:
+    FORD_VCT_EXH_DES: 20
+    FORD_[ECU] VCT Exh Des: 20
+- response: 7E8056203BB0141
+  expected_values:
+    FORD_VCT_EXH_DES: 20.0625
+    FORD_[ECU] VCT Exh Des: 20.0625
+- response: 7E8056203BB0143
+  expected_values:
+    FORD_VCT_EXH_DES: 20.1875
+    FORD_[ECU] VCT Exh Des: 20.1875
+- response: 7E8056203BB0146
+  expected_values:
+    FORD_VCT_EXH_DES: 20.375
+    FORD_[ECU] VCT Exh Des: 20.375
+- response: 7E8056203BB0153
+  expected_values:
+    FORD_VCT_EXH_DES: 21.1875
+    FORD_[ECU] VCT Exh Des: 21.1875
+- response: 7E8056203BB0157
+  expected_values:
+    FORD_VCT_EXH_DES: 21.4375
+    FORD_[ECU] VCT Exh Des: 21.4375
+- response: 7E8056203BB015E
+  expected_values:
+    FORD_VCT_EXH_DES: 21.875
+    FORD_[ECU] VCT Exh Des: 21.875
+- response: 7E8056203BB0172
+  expected_values:
+    FORD_VCT_EXH_DES: 23.125
+    FORD_[ECU] VCT Exh Des: 23.125
+- response: 7E8056203BB017E
+  expected_values:
+    FORD_VCT_EXH_DES: 23.875
+    FORD_[ECU] VCT Exh Des: 23.875
+- response: 7E8056203BB0185
+  expected_values:
+    FORD_VCT_EXH_DES: 24.3125
+    FORD_[ECU] VCT Exh Des: 24.3125
+- response: 7E8056203BB018D
+  expected_values:
+    FORD_VCT_EXH_DES: 24.8125
+    FORD_[ECU] VCT Exh Des: 24.8125
+- response: 7E8056203BB018E
+  expected_values:
+    FORD_VCT_EXH_DES: 24.875
+    FORD_[ECU] VCT Exh Des: 24.875
+- response: 7E8056203BB0196
+  expected_values:
+    FORD_VCT_EXH_DES: 25.375
+    FORD_[ECU] VCT Exh Des: 25.375
+- response: 7E8056203BB019A
+  expected_values:
+    FORD_VCT_EXH_DES: 25.625
+    FORD_[ECU] VCT Exh Des: 25.625
+- response: 7E8056203BB019B
+  expected_values:
+    FORD_VCT_EXH_DES: 25.6875
+    FORD_[ECU] VCT Exh Des: 25.6875
+- response: 7E8056203BB01A4
+  expected_values:
+    FORD_VCT_EXH_DES: 26.25
+    FORD_[ECU] VCT Exh Des: 26.25
+- response: 7E8056203BB01A5
+  expected_values:
+    FORD_VCT_EXH_DES: 26.3125
+    FORD_[ECU] VCT Exh Des: 26.3125
+- response: 7E8056203BB01A7
+  expected_values:
+    FORD_VCT_EXH_DES: 26.4375
+    FORD_[ECU] VCT Exh Des: 26.4375
+- response: 7E8056203BB01B6
+  expected_values:
+    FORD_VCT_EXH_DES: 27.375
+    FORD_[ECU] VCT Exh Des: 27.375
+- response: 7E8056203BB01BD
+  expected_values:
+    FORD_VCT_EXH_DES: 27.8125
+    FORD_[ECU] VCT Exh Des: 27.8125
+- response: 7E8056203BB01C0
+  expected_values:
+    FORD_VCT_EXH_DES: 28
+    FORD_[ECU] VCT Exh Des: 28
+- response: 7E8056203BB01C2
+  expected_values:
+    FORD_VCT_EXH_DES: 28.125
+    FORD_[ECU] VCT Exh Des: 28.125
+- response: 7E8056203BB01CF
+  expected_values:
+    FORD_VCT_EXH_DES: 28.9375
+    FORD_[ECU] VCT Exh Des: 28.9375
+- response: 7E8056203BB01E0
+  expected_values:
+    FORD_VCT_EXH_DES: 30
+    FORD_[ECU] VCT Exh Des: 30
+- response: 7E8056203BB01E6
+  expected_values:
+    FORD_VCT_EXH_DES: 30.375
+    FORD_[ECU] VCT Exh Des: 30.375
+- response: 7E8056203BB01E8
+  expected_values:
+    FORD_VCT_EXH_DES: 30.5
+    FORD_[ECU] VCT Exh Des: 30.5
+- response: 7E8056203BB01E9
+  expected_values:
+    FORD_VCT_EXH_DES: 30.5625
+    FORD_[ECU] VCT Exh Des: 30.5625
+- response: 7E8056203BB01EE
+  expected_values:
+    FORD_VCT_EXH_DES: 30.875
+    FORD_[ECU] VCT Exh Des: 30.875
+- response: 7E8056203BB01EF
+  expected_values:
+    FORD_VCT_EXH_DES: 30.9375
+    FORD_[ECU] VCT Exh Des: 30.9375
+- response: 7E8056203BB01F3
+  expected_values:
+    FORD_VCT_EXH_DES: 31.1875
+    FORD_[ECU] VCT Exh Des: 31.1875
+- response: 7E8056203BB0202
+  expected_values:
+    FORD_VCT_EXH_DES: 32.125
+    FORD_[ECU] VCT Exh Des: 32.125
+- response: 7E8056203BB0209
+  expected_values:
+    FORD_VCT_EXH_DES: 32.5625
+    FORD_[ECU] VCT Exh Des: 32.5625
+- response: 7E8056203BB0215
+  expected_values:
+    FORD_VCT_EXH_DES: 33.3125
+    FORD_[ECU] VCT Exh Des: 33.3125
+- response: 7E8056203BB021C
+  expected_values:
+    FORD_VCT_EXH_DES: 33.75
+    FORD_[ECU] VCT Exh Des: 33.75
+- response: 7E8056203BB0220
+  expected_values:
+    FORD_VCT_EXH_DES: 34
+    FORD_[ECU] VCT Exh Des: 34
+- response: 7E8056203BB0239
+  expected_values:
+    FORD_VCT_EXH_DES: 35.5625
+    FORD_[ECU] VCT Exh Des: 35.5625
+- response: 7E8056203BB0247
+  expected_values:
+    FORD_VCT_EXH_DES: 36.4375
+    FORD_[ECU] VCT Exh Des: 36.4375
+- response: 7E8056203BB0251
+  expected_values:
+    FORD_VCT_EXH_DES: 37.0625
+    FORD_[ECU] VCT Exh Des: 37.0625
+- response: 7E8056203BB0256
+  expected_values:
+    FORD_VCT_EXH_DES: 37.375
+    FORD_[ECU] VCT Exh Des: 37.375
+- response: 7E8056203BB025E
+  expected_values:
+    FORD_VCT_EXH_DES: 37.875
+    FORD_[ECU] VCT Exh Des: 37.875
+- response: 7E8056203BB0261
+  expected_values:
+    FORD_VCT_EXH_DES: 38.0625
+    FORD_[ECU] VCT Exh Des: 38.0625
+- response: 7E8056203BB0265
+  expected_values:
+    FORD_VCT_EXH_DES: 38.3125
+    FORD_[ECU] VCT Exh Des: 38.3125
+- response: 7E8056203BB0268
+  expected_values:
+    FORD_VCT_EXH_DES: 38.5
+    FORD_[ECU] VCT Exh Des: 38.5
+- response: 7E8056203BB0269
+  expected_values:
+    FORD_VCT_EXH_DES: 38.5625
+    FORD_[ECU] VCT Exh Des: 38.5625
+- response: 7E8056203BB026D
+  expected_values:
+    FORD_VCT_EXH_DES: 38.8125
+    FORD_[ECU] VCT Exh Des: 38.8125
+- response: 7E8056203BB026E
+  expected_values:
+    FORD_VCT_EXH_DES: 38.875
+    FORD_[ECU] VCT Exh Des: 38.875
+- response: 7E8056203BB027C
+  expected_values:
+    FORD_VCT_EXH_DES: 39.75
+    FORD_[ECU] VCT Exh Des: 39.75
+- response: 7E8056203BB0286
+  expected_values:
+    FORD_VCT_EXH_DES: 40.375
+    FORD_[ECU] VCT Exh Des: 40.375
+- response: 7E8056203BB0289
+  expected_values:
+    FORD_VCT_EXH_DES: 40.5625
+    FORD_[ECU] VCT Exh Des: 40.5625
+- response: 7E8056203BB0291
+  expected_values:
+    FORD_VCT_EXH_DES: 41.0625
+    FORD_[ECU] VCT Exh Des: 41.0625
+- response: 7E8056203BB02A0
+  expected_values:
+    FORD_VCT_EXH_DES: 42
+    FORD_[ECU] VCT Exh Des: 42
+- response: 7E8056203BB02B3
+  expected_values:
+    FORD_VCT_EXH_DES: 43.1875
+    FORD_[ECU] VCT Exh Des: 43.1875
+- response: 7E8056203BB02C2
+  expected_values:
+    FORD_VCT_EXH_DES: 44.125
+    FORD_[ECU] VCT Exh Des: 44.125
+- response: 7E8056203BB02C4
+  expected_values:
+    FORD_VCT_EXH_DES: 44.25
+    FORD_[ECU] VCT Exh Des: 44.25
+- response: 7E8056203BB02C8
+  expected_values:
+    FORD_VCT_EXH_DES: 44.5
+    FORD_[ECU] VCT Exh Des: 44.5
+- response: 7E8056203BB02CB
+  expected_values:
+    FORD_VCT_EXH_DES: 44.6875
+    FORD_[ECU] VCT Exh Des: 44.6875
+- response: 7E8056203BB02D2
+  expected_values:
+    FORD_VCT_EXH_DES: 45.125
+    FORD_[ECU] VCT Exh Des: 45.125
+- response: 7E8056203BB02D5
+  expected_values:
+    FORD_VCT_EXH_DES: 45.3125
+    FORD_[ECU] VCT Exh Des: 45.3125
+- response: 7E8056203BB02E1
+  expected_values:
+    FORD_VCT_EXH_DES: 46.0625
+    FORD_[ECU] VCT Exh Des: 46.0625
+- response: 7E8056203BB02E8
+  expected_values:
+    FORD_VCT_EXH_DES: 46.5
+    FORD_[ECU] VCT Exh Des: 46.5
+- response: 7E8056203BB02ED
+  expected_values:
+    FORD_VCT_EXH_DES: 46.8125
+    FORD_[ECU] VCT Exh Des: 46.8125
+- response: 7E8056203BB02F6
+  expected_values:
+    FORD_VCT_EXH_DES: 47.375
+    FORD_[ECU] VCT Exh Des: 47.375
+- response: 7E8056203BB02F7
+  expected_values:
+    FORD_VCT_EXH_DES: 47.4375
+    FORD_[ECU] VCT Exh Des: 47.4375
+- response: 7E8056203BB02FF
+  expected_values:
+    FORD_VCT_EXH_DES: 47.9375
+    FORD_[ECU] VCT Exh Des: 47.9375
+- response: 7E8056203BB0309
+  expected_values:
+    FORD_VCT_EXH_DES: 48.5625
+    FORD_[ECU] VCT Exh Des: 48.5625
+- response: 7E8056203BB030B
+  expected_values:
+    FORD_VCT_EXH_DES: 48.6875
+    FORD_[ECU] VCT Exh Des: 48.6875
+- response: 7E8056203BB030E
+  expected_values:
+    FORD_VCT_EXH_DES: 48.875
+    FORD_[ECU] VCT Exh Des: 48.875
+- response: 7E8056203BB030F
+  expected_values:
+    FORD_VCT_EXH_DES: 48.9375
+    FORD_[ECU] VCT Exh Des: 48.9375
+- response: 7E8056203BB0313
+  expected_values:
+    FORD_VCT_EXH_DES: 49.1875
+    FORD_[ECU] VCT Exh Des: 49.1875
+- response: 7E8056203BB031F
+  expected_values:
+    FORD_VCT_EXH_DES: 49.9375
+    FORD_[ECU] VCT Exh Des: 49.9375

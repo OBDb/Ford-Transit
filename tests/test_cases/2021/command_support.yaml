@@ -75,11 +75,13 @@ unsupported_commands_by_ecu:
   - 764.22A224
   7DF:
   - 7DF.221310
+  - 7DF.221E23
   - 7DF.22F45C
   7E0:
   - 7E0.22033C
   - 7E0.22033E
   - 7E0.220393
+  - 7E0.7E8.221E23
   7E2:
   - 7E2.7EA.22DD04
   - 7E2.7EA.22DD05

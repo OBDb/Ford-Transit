@@ -58,6 +58,10 @@ test_cases:
   expected_values:
     FORD_VCT_EXH_ERR: 0.8125
     FORD_[ECU] VCT exhaust error: 0.8125
+- response: 7E80562031B000E
+  expected_values:
+    FORD_VCT_EXH_ERR: 0.875
+    FORD_[ECU] VCT exhaust error: 0.875
 - response: 7E80562031B000F
   expected_values:
     FORD_VCT_EXH_ERR: 0.9375
@@ -74,6 +78,10 @@ test_cases:
   expected_values:
     FORD_VCT_EXH_ERR: 1.125
     FORD_[ECU] VCT exhaust error: 1.125
+- response: 7E80562031B0013
+  expected_values:
+    FORD_VCT_EXH_ERR: 1.1875
+    FORD_[ECU] VCT exhaust error: 1.1875
 - response: 7E80562031B0014
   expected_values:
     FORD_VCT_EXH_ERR: 1.25
@@ -82,10 +90,34 @@ test_cases:
   expected_values:
     FORD_VCT_EXH_ERR: 1.3125
     FORD_[ECU] VCT exhaust error: 1.3125
+- response: 7E80562031B0016
+  expected_values:
+    FORD_VCT_EXH_ERR: 1.375
+    FORD_[ECU] VCT exhaust error: 1.375
 - response: 7E80562031B0017
   expected_values:
     FORD_VCT_EXH_ERR: 1.4375
     FORD_[ECU] VCT exhaust error: 1.4375
+- response: 7E80562031B001B
+  expected_values:
+    FORD_VCT_EXH_ERR: 1.6875
+    FORD_[ECU] VCT exhaust error: 1.6875
+- response: 7E80562031B001D
+  expected_values:
+    FORD_VCT_EXH_ERR: 1.8125
+    FORD_[ECU] VCT exhaust error: 1.8125
+- response: 7E80562031B001E
+  expected_values:
+    FORD_VCT_EXH_ERR: 1.875
+    FORD_[ECU] VCT exhaust error: 1.875
+- response: 7E80562031B0020
+  expected_values:
+    FORD_VCT_EXH_ERR: 2
+    FORD_[ECU] VCT exhaust error: 2
+- response: 7E80562031B0022
+  expected_values:
+    FORD_VCT_EXH_ERR: 2.125
+    FORD_[ECU] VCT exhaust error: 2.125
 - response: 7E80562031B0024
   expected_values:
     FORD_VCT_EXH_ERR: 2.25
@@ -94,10 +126,22 @@ test_cases:
   expected_values:
     FORD_VCT_EXH_ERR: 2.6875
     FORD_[ECU] VCT exhaust error: 2.6875
+- response: 7E80562031B002C
+  expected_values:
+    FORD_VCT_EXH_ERR: 2.75
+    FORD_[ECU] VCT exhaust error: 2.75
 - response: 7E80562031B002E
   expected_values:
     FORD_VCT_EXH_ERR: 2.875
     FORD_[ECU] VCT exhaust error: 2.875
+- response: 7E80562031B0030
+  expected_values:
+    FORD_VCT_EXH_ERR: 3
+    FORD_[ECU] VCT exhaust error: 3
+- response: 7E80562031B0031
+  expected_values:
+    FORD_VCT_EXH_ERR: 3.0625
+    FORD_[ECU] VCT exhaust error: 3.0625
 - response: 7E80562031B0040
   expected_values:
     FORD_VCT_EXH_ERR: 4
@@ -106,10 +150,18 @@ test_cases:
   expected_values:
     FORD_VCT_EXH_ERR: 4.4375
     FORD_[ECU] VCT exhaust error: 4.4375
+- response: 7E80562031B0048
+  expected_values:
+    FORD_VCT_EXH_ERR: 4.5
+    FORD_[ECU] VCT exhaust error: 4.5
 - response: 7E80562031B004E
   expected_values:
     FORD_VCT_EXH_ERR: 4.875
     FORD_[ECU] VCT exhaust error: 4.875
+- response: 7E80562031B004F
+  expected_values:
+    FORD_VCT_EXH_ERR: 4.9375
+    FORD_[ECU] VCT exhaust error: 4.9375
 - response: 7E80562031B0090
   expected_values:
     FORD_VCT_EXH_ERR: 9
@@ -126,7 +178,19 @@ test_cases:
   expected_values:
     FORD_VCT_EXH_ERR: 50
     FORD_[ECU] VCT exhaust error: 50
+- response: 7E80562031BFF9E
+  expected_values:
+    FORD_VCT_EXH_ERR: 50
+    FORD_[ECU] VCT exhaust error: 50
 - response: 7E80562031BFFA6
+  expected_values:
+    FORD_VCT_EXH_ERR: 50
+    FORD_[ECU] VCT exhaust error: 50
+- response: 7E80562031BFFB0
+  expected_values:
+    FORD_VCT_EXH_ERR: 50
+    FORD_[ECU] VCT exhaust error: 50
+- response: 7E80562031BFFB1
   expected_values:
     FORD_VCT_EXH_ERR: 50
     FORD_[ECU] VCT exhaust error: 50
@@ -150,6 +214,22 @@ test_cases:
   expected_values:
     FORD_VCT_EXH_ERR: 50
     FORD_[ECU] VCT exhaust error: 50
+- response: 7E80562031BFFD1
+  expected_values:
+    FORD_VCT_EXH_ERR: 50
+    FORD_[ECU] VCT exhaust error: 50
+- response: 7E80562031BFFD2
+  expected_values:
+    FORD_VCT_EXH_ERR: 50
+    FORD_[ECU] VCT exhaust error: 50
+- response: 7E80562031BFFD3
+  expected_values:
+    FORD_VCT_EXH_ERR: 50
+    FORD_[ECU] VCT exhaust error: 50
+- response: 7E80562031BFFD5
+  expected_values:
+    FORD_VCT_EXH_ERR: 50
+    FORD_[ECU] VCT exhaust error: 50
 - response: 7E80562031BFFD9
   expected_values:
     FORD_VCT_EXH_ERR: 50
@@ -158,11 +238,31 @@ test_cases:
   expected_values:
     FORD_VCT_EXH_ERR: 50
     FORD_[ECU] VCT exhaust error: 50
+- response: 7E80562031BFFE0
+  expected_values:
+    FORD_VCT_EXH_ERR: 50
+    FORD_[ECU] VCT exhaust error: 50
+- response: 7E80562031BFFE2
+  expected_values:
+    FORD_VCT_EXH_ERR: 50
+    FORD_[ECU] VCT exhaust error: 50
+- response: 7E80562031BFFE3
+  expected_values:
+    FORD_VCT_EXH_ERR: 50
+    FORD_[ECU] VCT exhaust error: 50
+- response: 7E80562031BFFE5
+  expected_values:
+    FORD_VCT_EXH_ERR: 50
+    FORD_[ECU] VCT exhaust error: 50
 - response: 7E80562031BFFE6
   expected_values:
     FORD_VCT_EXH_ERR: 50
     FORD_[ECU] VCT exhaust error: 50
 - response: 7E80562031BFFE7
+  expected_values:
+    FORD_VCT_EXH_ERR: 50
+    FORD_[ECU] VCT exhaust error: 50
+- response: 7E80562031BFFE8
   expected_values:
     FORD_VCT_EXH_ERR: 50
     FORD_[ECU] VCT exhaust error: 50
@@ -191,6 +291,10 @@ test_cases:
     FORD_VCT_EXH_ERR: 50
     FORD_[ECU] VCT exhaust error: 50
 - response: 7E80562031BFFF0
+  expected_values:
+    FORD_VCT_EXH_ERR: 50
+    FORD_[ECU] VCT exhaust error: 50
+- response: 7E80562031BFFF1
   expected_values:
     FORD_VCT_EXH_ERR: 50
     FORD_[ECU] VCT exhaust error: 50

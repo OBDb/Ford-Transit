@@ -2,10 +2,26 @@ command_id: 7E0.220393
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
+- response: 7E80562039301C1
+  expected_values:
+    FORD_AC_P: 130.2439
+    FORD_[ECU] AC Pressure: 130.2439
+- response: 7E80562039301CD
+  expected_values:
+    FORD_AC_P: 133.7248
+    FORD_[ECU] AC Pressure: 133.7248
+- response: 7E80562039301DA
+  expected_values:
+    FORD_AC_P: 137.49579
+    FORD_[ECU] AC Pressure: 137.49579
 - response: 7E80562039301E6
   expected_values:
     FORD_AC_P: 140.97669
     FORD_[ECU] AC Pressure: 140.97669
+- response: 7E80562039301F2
+  expected_values:
+    FORD_AC_P: 144.4576
+    FORD_[ECU] AC Pressure: 144.4576
 - response: 7E80562039301FE
   expected_values:
     FORD_AC_P: 147.9385
@@ -22,6 +38,14 @@ test_cases:
   expected_values:
     FORD_AC_P: 158.6713
     FORD_[ECU] AC Pressure: 158.6713
+- response: 7E805620393022F
+  expected_values:
+    FORD_AC_P: 162.1522
+    FORD_[ECU] AC Pressure: 162.1522
+- response: '7E8056203930247'
+  expected_values:
+    FORD_AC_P: 169.11401
+    FORD_[ECU] AC Pressure: 169.11401
 - response: '7E8056203930253'
   expected_values:
     FORD_AC_P: 172.59492
@@ -74,6 +98,10 @@ test_cases:
   expected_values:
     FORD_AC_P: 232.64055
     FORD_[ECU] AC Pressure: 232.64055
+- response: 7E805620393032E
+  expected_values:
+    FORD_AC_P: 236.12145
+    FORD_[ECU] AC Pressure: 236.12145
 - response: 7E805620393036B
   expected_values:
     FORD_AC_P: 253.81606
@@ -82,6 +110,10 @@ test_cases:
   expected_values:
     FORD_AC_P: 260.77787
     FORD_[ECU] AC Pressure: 260.77787
+- response: '7E8056203930452'
+  expected_values:
+    FORD_AC_P: 320.8235
+    FORD_[ECU] AC Pressure: 320.8235
 - response: 7E80562039304A7
   expected_values:
     FORD_AC_P: 345.47992
@@ -110,6 +142,10 @@ test_cases:
   expected_values:
     FORD_AC_P: 412.48736
     FORD_[ECU] AC Pressure: 412.48736
+- response: 7E80562039305CB
+  expected_values:
+    FORD_AC_P: 430.18196
+    FORD_[ECU] AC Pressure: 430.18196
 - response: 7E80562039305D7
   expected_values:
     FORD_AC_P: 433.66287

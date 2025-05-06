@@ -35,3 +35,105 @@ test_cases:
 - response: 7E80662DD0103F237
   expected_values:
     FORD_ODO: 258615
+- response: 7E80662DD0103F284
+  expected_values:
+    FORD_ODO: 258692
+- response: 7E80662DD0103F285
+  expected_values:
+    FORD_ODO: 258693
+- response: 7E80662DD0103F286
+  expected_values:
+    FORD_ODO: 258694
+- response: 7E80662DD0103F287
+  expected_values:
+    FORD_ODO: 258695
+- response: 7E80662DD0103F288
+  expected_values:
+    FORD_ODO: 258696
+- response: 7E80662DD0103F291
+  expected_values:
+    FORD_ODO: 258705
+- response: 7E80662DD0103F292
+  expected_values:
+    FORD_ODO: 258706
+- response: 7E80662DD0103F29E
+  expected_values:
+    FORD_ODO: 258718
+- response: 7E80662DD0103F29F
+  expected_values:
+    FORD_ODO: 258719
+- response: 7E80662DD0103F2A0
+  expected_values:
+    FORD_ODO: 258720
+- response: 7E80662DD0103F2A1
+  expected_values:
+    FORD_ODO: 258721
+- response: 7E80662DD0103F2A2
+  expected_values:
+    FORD_ODO: 258722
+- response: 7E80662DD0103F2A3
+  expected_values:
+    FORD_ODO: 258723
+- response: 7E80662DD0103F2A4
+  expected_values:
+    FORD_ODO: 258724
+- response: 7E80662DD0103F2AF
+  expected_values:
+    FORD_ODO: 258735
+- response: 7E80662DD0103F2B0
+  expected_values:
+    FORD_ODO: 258736
+- response: 7E80662DD0103F2B1
+  expected_values:
+    FORD_ODO: 258737
+- response: 7E80662DD0103F2B2
+  expected_values:
+    FORD_ODO: 258738
+- response: 7E80662DD0103F2B3
+  expected_values:
+    FORD_ODO: 258739
+- response: 7E80662DD0103F2BB
+  expected_values:
+    FORD_ODO: 258747
+- response: 7E80662DD0103F2BC
+  expected_values:
+    FORD_ODO: 258748
+- response: 7E80662DD0103F2BD
+  expected_values:
+    FORD_ODO: 258749
+- response: 7E80662DD0103F2BE
+  expected_values:
+    FORD_ODO: 258750
+- response: 7E80662DD0103F2BF
+  expected_values:
+    FORD_ODO: 258751
+- response: 7E80662DD0103F2C0
+  expected_values:
+    FORD_ODO: 258752
+- response: 7E80662DD0103F2CF
+  expected_values:
+    FORD_ODO: 258767
+- response: 7E80662DD0103F2D0
+  expected_values:
+    FORD_ODO: 258768
+- response: 7E80662DD0103F2D5
+  expected_values:
+    FORD_ODO: 258773
+- response: 7E80662DD0103F2D6
+  expected_values:
+    FORD_ODO: 258774
+- response: 7E80662DD0103F2D7
+  expected_values:
+    FORD_ODO: 258775
+- response: 7E80662DD0103F2D8
+  expected_values:
+    FORD_ODO: 258776
+- response: 7E80662DD0103F2D9
+  expected_values:
+    FORD_ODO: 258777
+- response: 7E80662DD0103F2DA
+  expected_values:
+    FORD_ODO: 258778
+- response: 7E80662DD0103F2DB
+  expected_values:
+    FORD_ODO: 258779

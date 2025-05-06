@@ -2,6 +2,22 @@ command_id: 7E0.2203CA
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
+- response: 7E8046203CA33
+  expected_values:
+    FORD_MCT: 51
+    FORD_[ECU] MCT: 51
+- response: 7E8046203CA34
+  expected_values:
+    FORD_MCT: 52
+    FORD_[ECU] MCT: 52
+- response: 7E8046203CA35
+  expected_values:
+    FORD_MCT: 53
+    FORD_[ECU] MCT: 53
+- response: 7E8046203CA36
+  expected_values:
+    FORD_MCT: 54
+    FORD_[ECU] MCT: 54
 - response: 7E8046203CA37
   expected_values:
     FORD_MCT: 55
@@ -22,6 +38,10 @@ test_cases:
   expected_values:
     FORD_MCT: 59
     FORD_[ECU] MCT: 59
+- response: 7E8046203CA3C
+  expected_values:
+    FORD_MCT: 60
+    FORD_[ECU] MCT: 60
 - response: 7E8046203CA3D
   expected_values:
     FORD_MCT: 61
@@ -34,6 +54,10 @@ test_cases:
   expected_values:
     FORD_MCT: 63
     FORD_[ECU] MCT: 63
+- response: 7E8046203CA40
+  expected_values:
+    FORD_MCT: 64
+    FORD_[ECU] MCT: 64
 - response: 7E8046203CA41
   expected_values:
     FORD_MCT: 65
@@ -58,6 +82,10 @@ test_cases:
   expected_values:
     FORD_MCT: 70
     FORD_[ECU] MCT: 70
+- response: 7E8046203CA47
+  expected_values:
+    FORD_MCT: 71
+    FORD_[ECU] MCT: 71
 - response: 7E8046203CA49
   expected_values:
     FORD_MCT: 73
@@ -86,6 +114,10 @@ test_cases:
   expected_values:
     FORD_MCT: 79
     FORD_[ECU] MCT: 79
+- response: 7E8046203CA51
+  expected_values:
+    FORD_MCT: 81
+    FORD_[ECU] MCT: 81
 - response: 7E8046203CA52
   expected_values:
     FORD_MCT: 82

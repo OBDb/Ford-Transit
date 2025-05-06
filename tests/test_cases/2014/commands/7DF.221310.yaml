@@ -8,9 +8,15 @@ test_cases:
 - response: '7E8056213101964'
   expected_values:
     FORD_EOT: 25
+- response: 7E8056213101A2C
+  expected_values:
+    FORD_EOT: 26
 - response: 7E8056213101A90
   expected_values:
     FORD_EOT: 26
+- response: 7E8056213101B58
+  expected_values:
+    FORD_EOT: 27
 - response: 7E8056213101BBC
   expected_values:
     FORD_EOT: 27
@@ -53,6 +59,9 @@ test_cases:
 - response: '7E8056213102260'
   expected_values:
     FORD_EOT: 34
+- response: 7E80562131022C4
+  expected_values:
+    FORD_EOT: 34
 - response: '7E8056213102328'
   expected_values:
     FORD_EOT: 35
@@ -62,6 +71,9 @@ test_cases:
 - response: 7E80562131023F0
   expected_values:
     FORD_EOT: 35
+- response: '7E8056213102454'
+  expected_values:
+    FORD_EOT: 36
 - response: 7E805621310251C
   expected_values:
     FORD_EOT: 37
@@ -72,6 +84,9 @@ test_cases:
   expected_values:
     FORD_EOT: 38
 - response: '7E8056213102710'
+  expected_values:
+    FORD_EOT: 39
+- response: 7E80562131027D8
   expected_values:
     FORD_EOT: 39
 - response: 7E805621310283C
@@ -92,12 +107,24 @@ test_cases:
 - response: 7E8056213102A30
   expected_values:
     FORD_EOT: 42
+- response: 7E8056213102A94
+  expected_values:
+    FORD_EOT: 42
 - response: 7E8056213102AF8
   expected_values:
     FORD_EOT: 42
+- response: 7E8056213102C24
+  expected_values:
+    FORD_EOT: 44
+- response: 7E8056213102C88
+  expected_values:
+    FORD_EOT: 44
 - response: 7E8056213102CEC
   expected_values:
     FORD_EOT: 44
+- response: 7E8056213102D50
+  expected_values:
+    FORD_EOT: 45
 - response: 7E8056213102DB4
   expected_values:
     FORD_EOT: 45
@@ -107,3 +134,9 @@ test_cases:
 - response: 7E8056213102E7C
   expected_values:
     FORD_EOT: 46
+- response: 7E8056213102EE0
+  expected_values:
+    FORD_EOT: 46
+- response: 7E8056213102F44
+  expected_values:
+    FORD_EOT: 47

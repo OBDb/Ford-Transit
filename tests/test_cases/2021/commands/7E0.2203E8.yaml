@@ -10,3 +10,7 @@ test_cases:
   expected_values:
     FORD_OAR: 0.25
     FORD_[ECU] OAR: 0.25
+- response: 7E8056203E8F000
+  expected_values:
+    FORD_OAR: 1
+    FORD_[ECU] OAR: 1

@@ -5,6 +5,6 @@ test_cases:
 - response: 7E80462F45C3D
   expected_values:
     FORD_EOP: 61
-- response: 7E80462F45C79
+- response: 7E80462F45C7A
   expected_values:
-    FORD_EOP: 121
+    FORD_EOP: 122

@@ -6,7 +6,7 @@ test_cases:
   expected_values:
     FORD_HPFP_DES: 0
     FORD_[ECU] HPFP Desired: 0
-- response: 7E8056203DC0CFE
+- response: 7E8056203DC12FF
   expected_values:
     FORD_HPFP_DES: 3500
     FORD_[ECU] HPFP Desired: 3500

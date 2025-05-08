@@ -5,12 +5,12 @@ test_cases:
 - response: 7E80562131017D4
   expected_values:
     FORD_EOT: 23
+- response: '7E8056213101900'
+  expected_values:
+    FORD_EOT: 25
 - response: 7E80562131021FC
   expected_values:
     FORD_EOT: 33
-- response: '7E8056213102904'
-  expected_values:
-    FORD_EOT: 41
 - response: 7E8056213102F44
   expected_values:
     FORD_EOT: 47

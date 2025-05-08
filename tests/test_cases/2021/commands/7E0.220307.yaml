@@ -2,10 +2,10 @@ command_id: 7E0.220307
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: 7E8056203071D0D
+- response: 7E8056203071C68
   expected_values:
-    FORD_LPFP_DUTY: 22.69592
-    FORD_[ECU] LPFP duty cycle: 22.69592
+    FORD_LPFP_DUTY: 22.19238
+    FORD_[ECU] LPFP duty cycle: 22.19238
 - response: 7E8056203071DFF
   expected_values:
     FORD_LPFP_DUTY: 23.43445
@@ -14,7 +14,7 @@ test_cases:
   expected_values:
     FORD_LPFP_DUTY: 24.21875
     FORD_[ECU] LPFP duty cycle: 24.21875
-- response: 7E8056203072A8B
+- response: '7E8056203076000'
   expected_values:
-    FORD_LPFP_DUTY: 33.23669
-    FORD_[ECU] LPFP duty cycle: 33.23669
+    FORD_LPFP_DUTY: 75
+    FORD_[ECU] LPFP duty cycle: 75

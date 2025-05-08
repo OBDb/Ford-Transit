@@ -10,7 +10,7 @@ test_cases:
   expected_values:
     FORD_VCT_INT_ACT: 0
     FORD_[ECU] VCT intake actual: 0
-- response: 7E805620318FF02
+- response: 7E805620318FF01
   expected_values:
     FORD_VCT_INT_ACT: 0
     FORD_[ECU] VCT intake actual: 0

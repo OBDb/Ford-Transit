@@ -6,11 +6,11 @@ test_cases:
   expected_values:
     FORD_VCT_EXH_ACT: 0
     FORD_[ECU] VCT exhaust actual: 0
-- response: 7E805620319FFF8
+- response: 7E80562031901FF
   expected_values:
-    FORD_VCT_EXH_ACT: 50
-    FORD_[ECU] VCT exhaust actual: 50
-- response: 7E805620319FFFF
+    FORD_VCT_EXH_ACT: 31.9375
+    FORD_[ECU] VCT exhaust actual: 31.9375
+- response: 7E805620319FFF8
   expected_values:
     FORD_VCT_EXH_ACT: 50
     FORD_[ECU] VCT exhaust actual: 50

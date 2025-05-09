@@ -2,7 +2,7 @@ command_id: 7DF.221310
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: 7E80562131017D4
+- response: '7E8056213101770'
   expected_values:
     FORD_EOT: 23
 - response: '7E8056213101900'

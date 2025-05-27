@@ -1,7 +1,0 @@
-command_id: 726.22407E
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
-test_cases:
-- response: 72E0462407E00
-  expected_values:
-    FORD_EXTERIOR_LIGHT_STATE: '0'

@@ -1,0 +1,5 @@
+command_id: 726.22C154
+test_cases:
+- response: 72E0762C15400000000
+  expected_values:
+    FORD_HOOD_OPEN: 0

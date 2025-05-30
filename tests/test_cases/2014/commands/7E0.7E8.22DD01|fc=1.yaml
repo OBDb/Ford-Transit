@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22DD01|fc=1
+test_cases:
+- response: 7E80662DD01000000
+  expected_values:
+    FORD_ODO: 0
+- response: 7E80662DD0103F2FF
+  expected_values:
+    FORD_ODO: 258815
+- response: 7E80662DD0103F50F
+  expected_values:
+    FORD_ODO: 259343

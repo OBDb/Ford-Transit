@@ -6,9 +6,9 @@ test_cases:
 - response: 7E80562033C00FF
   expected_values:
     FORD_TIP_V: 1.24512
-- response: 7E80562033C0200
+- response: 7E80562033C0100
   expected_values:
-    FORD_TIP_V: 2.5
+    FORD_TIP_V: 1.25
 - response: 7E80562033C0300
   expected_values:
     FORD_TIP_V: 3.75

@@ -1,14 +1,14 @@
 command_id: 7E0.22033C
 test_cases:
-- response: 7E80562033C009E
-  expected_values:
-    FORD_TIP_V: 0.77148
-- response: 7E80562033C00FF
-  expected_values:
+- expected_values:
+    FORD_TIP_V: 0.7666
+  response: 7E80562033C009D
+- expected_values:
     FORD_TIP_V: 1.24512
-- response: 7E80562033C0100
-  expected_values:
+  response: 7E80562033C00FF
+- expected_values:
     FORD_TIP_V: 1.25
-- response: 7E80562033C0300
-  expected_values:
+  response: 7E80562033C0100
+- expected_values:
     FORD_TIP_V: 3.75
+  response: 7E80562033C0300

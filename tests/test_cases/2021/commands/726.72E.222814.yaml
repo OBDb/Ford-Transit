@@ -1,8 +1,11 @@
 command_id: 726.72E.222814
 test_cases:
 - expected_values:
-    FORD_TP_FR: 51.7
-  response: 72E05622814040A
+    FORD_TP_FR: 48.05
+  response: 72E0562281403C1
+- expected_values:
+    FORD_TP_FR: 51.2
+  response: '72E056228140400'
 - expected_values:
     FORD_TP_FR: 63.95
   response: 72E0562281404FF

@@ -10,6 +10,7 @@ supported_commands_by_ecu:
   "760":
   - 760.222B00:FORD_PARKING_BRAKE
   "7DF":
+  - 7DF.010D
   - 7DF.221310:FORD_EOT
   - 7DF.22F42F:FORD_FLI_V2
   - 7DF.22F45C:FORD_EOP

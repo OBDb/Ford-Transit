@@ -1,8 +1,8 @@
 command_id: 7E0.22030F
 test_cases:
 - expected_values:
-    FORD_CL: 0.79453
-  response: 7E80562030F65B3
+    FORD_CL: 0.74884
+  response: 7E80562030F5FDA
 - expected_values:
     FORD_CL: 0.84372
   response: 7E80562030F6BFF
@@ -10,5 +10,5 @@ test_cases:
     FORD_CL: 0.85938
   response: 7E80562030F6E00
 - expected_values:
-    FORD_CL: 1.37668
-  response: 7E80562030FB037
+    FORD_CL: 1.39041
+  response: 7E80562030FB1F9

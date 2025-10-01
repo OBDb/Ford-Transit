@@ -56,6 +56,8 @@ supported_commands_by_ecu:
   - 7E0.2203DC:FORD_HPFP_DES
   - 7E0.7E8.22DD01|fc=1:FORD_ODO
   - 7E0.7E8.22F42F:FORD_FLI
+  "7E2":
+  - 7E2.7EA.22DD05|fc=1:FORD_AAT
 unsupported_commands_by_ecu:
   "720":
   - 720.728.22404C:FORD_ODO_V3
@@ -104,7 +106,6 @@ unsupported_commands_by_ecu:
   - 7E0.7E8.221E23:FORD_GEAR_SHFT
   "7E2":
   - 7E2.7EA.22DD04|fc=1:FORD_IAT
-  - 7E2.7EA.22DD05|fc=1:FORD_AAT
   "7E4":
   - 7E4.7EC.224800|fc=1:FORD_HVBAT_T
   - 7E4.7EC.224801|fc=1:FORD_HVBAT_SOC

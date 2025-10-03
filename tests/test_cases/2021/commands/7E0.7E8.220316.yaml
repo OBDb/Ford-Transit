@@ -1,4 +1,4 @@
-command_id: 7E0.220316
+command_id: 7E0.7E8.220316
 test_cases:
 - expected_values:
     FORD_VCT_INT_DUTY: 0

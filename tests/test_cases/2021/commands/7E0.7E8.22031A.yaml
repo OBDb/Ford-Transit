@@ -1,4 +1,4 @@
-command_id: 7E0.22031A
+command_id: 7E0.7E8.22031A
 test_cases:
 - expected_values:
     FORD_VCT_INT_ERR: 0

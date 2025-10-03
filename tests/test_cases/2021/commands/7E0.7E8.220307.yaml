@@ -1,4 +1,4 @@
-command_id: 7E0.220307
+command_id: 7E0.7E8.220307
 test_cases:
 - expected_values:
     FORD_LPFP_DUTY: 20.88928

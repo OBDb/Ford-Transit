@@ -1,4 +1,4 @@
-command_id: 7E0.220317
+command_id: 7E0.7E8.220317
 test_cases:
 - expected_values:
     FORD_VCT_EXH_DUTY: 0

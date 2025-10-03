@@ -1,4 +1,4 @@
-command_id: 7E0.22035A
+command_id: 7E0.7E8.22035A
 test_cases:
 - expected_values:
     FORD_BARO_V: 3.70479

@@ -1,4 +1,4 @@
-command_id: 7E0.2203DC
+command_id: 7E0.7E8.2203DC
 test_cases:
 - expected_values:
     FORD_HPFP_DES: 43.51132

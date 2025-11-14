@@ -1,8 +1,8 @@
 command_id: 7DF.221310
 test_cases:
 - expected_values:
-    FORD_EOT: 23
-  response: '7E8056213101770'
+    FORD_EOT: 20
+  response: '7E8056213101450'
 - expected_values:
     FORD_EOT: 25
   response: '7E8056213101900'

@@ -102,6 +102,8 @@ supported_commands_by_ecu:
   - 7E0.7E8.22DD01|fc=1:FORD_ODO
   - 7E0.7E8.22F42F:FORD_FLI
 unsupported_commands_by_ecu:
+  "6F5":
+  - 6F5.6FD.22489D:FORD_HVDC_CHG_MAX_V
   "720":
   - 720.728.22404C:FORD_ODO_V3
   - 720.728.226185:FORD_FLI_V2

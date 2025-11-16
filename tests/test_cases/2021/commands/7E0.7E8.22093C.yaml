@@ -11,4 +11,4 @@ test_cases:
   response: 7E80562093C0BFC
 - expected_values:
     FORD_THROTTLE_POS_ACT: 100
-  response: 7E80562093C6F14
+  response: 7E80562093C89D4

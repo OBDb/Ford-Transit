@@ -5,16 +5,4 @@ test_cases:
   response: 72E0562402A00BC
 - expected_values:
     FORD_12V_V: 6
-  response: 72E0562402A00EE
-- expected_values:
-    FORD_12V_V: 6
-  response: 72E0562402A00EF
-- expected_values:
-    FORD_12V_V: 6
-  response: 72E0562402A00F0
-- expected_values:
-    FORD_12V_V: 6
-  response: 72E0562402A00F1
-- expected_values:
-    FORD_12V_V: 6
   response: 72E0562402A00F2

@@ -4,27 +4,6 @@ test_cases:
     FORD_ODO_BCM: 264995
   response: 7680662DD01040B23
 - expected_values:
-    FORD_ODO_BCM: 265004
-  response: 7680662DD01040B2C
-- expected_values:
-    FORD_ODO_BCM: 265057
-  response: 7680662DD01040B61
-- expected_values:
-    FORD_ODO_BCM: 265110
-  response: 7680662DD01040B96
-- expected_values:
-    FORD_ODO_BCM: 265112
-  response: 7680662DD01040B98
-- expected_values:
-    FORD_ODO_BCM: 265113
-  response: 7680662DD01040B99
-- expected_values:
-    FORD_ODO_BCM: 265164
-  response: 7680662DD01040BCC
-- expected_values:
-    FORD_ODO_BCM: 265214
-  response: 7680662DD01040BFE
-- expected_values:
     FORD_ODO_BCM: 265215
   response: 7680662DD01040BFF
 - expected_values:

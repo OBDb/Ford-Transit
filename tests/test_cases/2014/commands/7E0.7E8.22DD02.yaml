@@ -4,5 +4,5 @@ test_cases:
     FORD_ECU_V: 4.7
   response: 7E80462DD022F
 - expected_values:
-    FORD_ECU_V: 6
-  response: 7E80462DD023C
+    FORD_ECU_V: 6.2
+  response: 7E80462DD023E

@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     FORD_12V_AGE: 97992
   response: 72E056240270FF3
+- expected_values:
+    FORD_12V_AGE: 98016
+  response: 72E056240270FF4

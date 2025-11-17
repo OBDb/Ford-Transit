@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     FORD_12V_AGE: 40368
   response: '72E056240270692'
+- expected_values:
+    FORD_12V_AGE: 40392
+  response: '72E056240270693'

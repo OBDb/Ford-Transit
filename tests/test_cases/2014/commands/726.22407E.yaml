@@ -2,4 +2,5 @@ command_id: 726.22407E
 test_cases:
 - expected_values:
     FORD_EXTERIOR_LIGHT_STATE: '0'
+    FORD_EXT_LT_STATE: 'OFF'
   response: 72E0462407E00

@@ -4,5 +4,5 @@ test_cases:
     FORD_LTFT: 2.34375
   response: 7E80462F40783
 - expected_values:
-    FORD_LTFT: 10.9375
-  response: 7E80462F4078E
+    FORD_LTFT: 11.71875
+  response: 7E80462F4078F

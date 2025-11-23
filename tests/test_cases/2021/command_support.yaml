@@ -13,6 +13,7 @@ supported_commands_by_ecu:
   - 726.72E.22402A:FORD_12V_V
   - 726.72E.22402B:FORD_12V_A
   "7DF":
+  - 7DF.0105
   - 7DF.010D
   - 7DF.0131
   - 7DF.221E12:FORD_GEAR_V2

@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.229800
 test_cases:
 - expected_values:
-    FORD_AC_P_SENS_V: 0.80176
-  response: '7E8056298000335'
+    FORD_AC_P_SENS_V: 0.73242
+  response: 7E80562980002EE
 - expected_values:
-    FORD_AC_P_SENS_V: 0.99805
-  response: 7E80562980003FE
+    FORD_AC_P_SENS_V: 0.74902
+  response: 7E80562980002FF
 - expected_values:
     FORD_AC_P_SENS_V: 1.00098
   response: '7E8056298000401'

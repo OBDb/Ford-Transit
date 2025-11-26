@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.229800
+test_cases:
+- expected_values:
+    FORD_AC_P_SENS_V: 0.82715
+  response: 7E805629800034F
+- expected_values:
+    FORD_AC_P_SENS_V: 0.85547
+  response: 7E805629800036C
+- expected_values:
+    FORD_AC_P_SENS_V: 0.86328
+  response: '7E8056298000374'
+- expected_values:
+    FORD_AC_P_SENS_V: 0.86523
+  response: '7E8056298000376'
+- expected_values:
+    FORD_AC_P_SENS_V: 0.87109
+  response: 7E805629800037C
+- expected_values:
+    FORD_AC_P_SENS_V: 0.88281
+  response: '7E8056298000388'
+- expected_values:
+    FORD_AC_P_SENS_V: 1.0166
+  response: '7E8056298000411'

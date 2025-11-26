@@ -1,0 +1,5 @@
+command_id: 7E4.7EC.224848|fc=1
+test_cases:
+- expected_values:
+    FORD_HVBAT_KWH: 0.13
+  response: 7EC056248480041

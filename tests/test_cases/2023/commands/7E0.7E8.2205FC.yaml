@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.2205FC
 test_cases:
 - expected_values:
+    FORD_PCM_CYL_HEAD_T_SENS_2_RAW: 46.35938
+  response: 7E8056205FC0B97
+- expected_values:
+    FORD_PCM_CYL_HEAD_T_SENS_2_RAW: 46.46875
+  response: 7E8056205FC0B9E
+- expected_values:
     FORD_PCM_CYL_HEAD_T_SENS_2_RAW: 53.46875
   response: 7E8056205FC0D5E
 - expected_values:

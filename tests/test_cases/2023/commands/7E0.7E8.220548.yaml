@@ -24,3 +24,6 @@ test_cases:
 - expected_values:
     FORD_LPFP_ACT: 80.2077
   response: '7E8056205480452'
+- expected_values:
+    FORD_LPFP_ACT: 80.28022
+  response: '7E8056205480453'

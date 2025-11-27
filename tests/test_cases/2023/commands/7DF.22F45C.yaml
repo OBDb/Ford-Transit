@@ -4,29 +4,5 @@ test_cases:
     FORD_EOP: 61
   response: 7E80462F45C3D
 - expected_values:
-    FORD_EOP: 62
-  response: 7E80462F45C3E
-- expected_values:
-    FORD_EOP: 63
-  response: 7E80462F45C3F
-- expected_values:
-    FORD_EOP: 64
-  response: 7E80462F45C40
-- expected_values:
-    FORD_EOP: 85
-  response: 7E80462F45C55
-- expected_values:
-    FORD_EOP: 86
-  response: 7E80462F45C56
-- expected_values:
-    FORD_EOP: 92
-  response: 7E80462F45C5C
-- expected_values:
-    FORD_EOP: 94
-  response: 7E80462F45C5E
-- expected_values:
-    FORD_EOP: 95
-  response: 7E80462F45C5F
-- expected_values:
-    FORD_EOP: 96
-  response: 7E80462F45C60
+    FORD_EOP: 108
+  response: 7E80462F45C6C

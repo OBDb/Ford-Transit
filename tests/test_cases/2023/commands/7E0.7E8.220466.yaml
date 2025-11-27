@@ -4,26 +4,8 @@ test_cases:
     FORD_TIP_DES_ABS: 14.17553
   response: 7E805620466320C
 - expected_values:
-    FORD_TIP_DES_ABS: 14.38797
-  response: 7E80562046632CC
-- expected_values:
-    FORD_TIP_DES_ABS: 14.40235
-  response: 7E80562046632D9
-- expected_values:
-    FORD_TIP_DES_ABS: 14.41673
-  response: 7E80562046632E6
-- expected_values:
     FORD_TIP_DES_ABS: 14.44439
   response: 7E80562046632FF
 - expected_values:
-    FORD_TIP_DES_ABS: 14.45878
-  response: 7E805620466330C
-- expected_values:
-    FORD_TIP_DES_ABS: 14.85599
-  response: '7E8056204663473'
-- expected_values:
-    FORD_TIP_DES_ABS: 14.86926
-  response: 7E805620466347F
-- expected_values:
-    FORD_TIP_DES_ABS: 14.9268
-  response: 7E80562046634B3
+    FORD_TIP_DES_ABS: 37.17482
+  response: 7E805620466833F

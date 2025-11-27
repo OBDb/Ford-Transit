@@ -7,23 +7,5 @@ test_cases:
     FORD_RPM: 824
   response: 7E80562F40C0CE0
 - expected_values:
-    FORD_RPM: 838.5
-  response: 7E80562F40C0D1A
-- expected_values:
-    FORD_RPM: 840
-  response: 7E80562F40C0D20
-- expected_values:
-    FORD_RPM: 840.5
-  response: 7E80562F40C0D22
-- expected_values:
-    FORD_RPM: 841.5
-  response: 7E80562F40C0D26
-- expected_values:
-    FORD_RPM: 842
-  response: 7E80562F40C0D28
-- expected_values:
-    FORD_RPM: 847.5
-  response: 7E80562F40C0D3E
-- expected_values:
-    FORD_RPM: 848
-  response: 7E80562F40C0D40
+    FORD_RPM: 832
+  response: 7E80562F40C0D00

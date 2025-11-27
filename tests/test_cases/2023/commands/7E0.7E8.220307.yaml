@@ -4,29 +4,8 @@ test_cases:
     FORD_LPFP_DUTY: 0
   response: '7E8056203070000'
 - expected_values:
-    FORD_LPFP_DUTY: 25.55847
-  response: 7E80562030720B7
-- expected_values:
     FORD_LPFP_DUTY: 25.61645
   response: 7E80562030720CA
-- expected_values:
-    FORD_LPFP_DUTY: 25.91858
-  response: 7E805620307212D
-- expected_values:
-    FORD_LPFP_DUTY: 25.95825
-  response: 7E805620307213A
-- expected_values:
-    FORD_LPFP_DUTY: 26.0376
-  response: '7E8056203072154'
-- expected_values:
-    FORD_LPFP_DUTY: 26.09863
-  response: '7E8056203072168'
-- expected_values:
-    FORD_LPFP_DUTY: 26.1261
-  response: '7E8056203072171'
-- expected_values:
-    FORD_LPFP_DUTY: 26.86768
-  response: '7E8056203072264'
 - expected_values:
     FORD_LPFP_DUTY: 27.66724
   response: 7E805620307236A

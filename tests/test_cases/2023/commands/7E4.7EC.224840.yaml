@@ -1,29 +1,11 @@
 command_id: 7E4.7EC.224840
 test_cases:
 - expected_values:
-    FORD_HVBAT_MIN_MOD_V: 3.655
-  response: 7EC056248400E47
+    FORD_HVBAT_MIN_MOD_V: 3.633
+  response: 7EC056248400E31
 - expected_values:
-    FORD_HVBAT_MIN_MOD_V: 3.656
-  response: 7EC056248400E48
+    FORD_HVBAT_MIN_MOD_V: 3.783
+  response: 7EC056248400EC7
 - expected_values:
-    FORD_HVBAT_MIN_MOD_V: 3.657
-  response: 7EC056248400E49
-- expected_values:
-    FORD_HVBAT_MIN_MOD_V: 3.658
-  response: 7EC056248400E4A
-- expected_values:
-    FORD_HVBAT_MIN_MOD_V: 3.659
-  response: 7EC056248400E4B
-- expected_values:
-    FORD_HVBAT_MIN_MOD_V: 3.66
-  response: 7EC056248400E4C
-- expected_values:
-    FORD_HVBAT_MIN_MOD_V: 3.662
-  response: 7EC056248400E4E
-- expected_values:
-    FORD_HVBAT_MIN_MOD_V: 3.663
-  response: 7EC056248400E4F
-- expected_values:
-    FORD_HVBAT_MIN_MOD_V: 3.666
-  response: 7EC056248400E52
+    FORD_HVBAT_MIN_MOD_V: 3.888
+  response: 7EC056248400F30

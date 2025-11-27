@@ -4,8 +4,8 @@ test_cases:
     FORD_RUN_TIME: 0
   response: 7E80562F41F0000
 - expected_values:
-    FORD_RUN_TIME: 972
-  response: 7E80562F41F03CC
+    FORD_RUN_TIME: 1787
+  response: 7E80562F41F06FB
 - expected_values:
-    FORD_RUN_TIME: 1005
-  response: 7E80562F41F03ED
+    FORD_RUN_TIME: 1815
+  response: 7E80562F41F0717

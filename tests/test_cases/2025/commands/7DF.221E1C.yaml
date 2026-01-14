@@ -1,23 +1,11 @@
 command_id: 7DF.221E1C
 test_cases:
 - expected_values:
-    FORD_TOT_V2: 37.1875
-  response: 7E905621E1C0253
+    FORD_TOT_V2: 17.1875
+  response: 7E905621E1C0113
 - expected_values:
-    FORD_TOT_V2: 56.25
-  response: 7E905621E1C0384
+    FORD_TOT_V2: 31.3125
+  response: 7E905621E1C01F5
 - expected_values:
-    FORD_TOT_V2: 58.3125
-  response: 7E905621E1C03A5
-- expected_values:
-    FORD_TOT_V2: 59
-  response: 7E905621E1C03B0
-- expected_values:
-    FORD_TOT_V2: 59.3125
-  response: 7E905621E1C03B5
-- expected_values:
-    FORD_TOT_V2: 61.25
-  response: 7E905621E1C03D4
-- expected_values:
-    FORD_TOT_V2: 62.9375
-  response: 7E905621E1C03EF
+    FORD_TOT_V2: 48.5
+  response: 7E905621E1C0308

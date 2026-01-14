@@ -1,17 +1,8 @@
 command_id: 7E0.7E8.22F462
 test_cases:
 - expected_values:
-    FORD_PCM_ACT_ENG_PCT_TRQ: 34
-  response: 7E80462F4629F
+    FORD_PCM_ACT_ENG_PCT_TRQ: 0
+  response: 7E80462F4627D
 - expected_values:
-    FORD_PCM_ACT_ENG_PCT_TRQ: 41
-  response: 7E80462F462A6
-- expected_values:
-    FORD_PCM_ACT_ENG_PCT_TRQ: 50
-  response: 7E80462F462AF
-- expected_values:
-    FORD_PCM_ACT_ENG_PCT_TRQ: 60
-  response: 7E80462F462B9
-- expected_values:
-    FORD_PCM_ACT_ENG_PCT_TRQ: 67
-  response: 7E80462F462C0
+    FORD_PCM_ACT_ENG_PCT_TRQ: 71
+  response: 7E80462F462C4

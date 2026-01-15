@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F40B
 test_cases:
 - expected_values:
-    FORD_MAP: 13.0535
-  response: 7E80462F40B5A
+    FORD_MAP: 12.18327
+  response: 7E80462F40B54
 - expected_values:
-    FORD_MAP: 31.32841
-  response: 7E80462F40BD8
+    FORD_MAP: 36
+  response: 7E80462F40BFB

@@ -4,8 +4,8 @@ test_cases:
     FORD_PCM_A_C_REFRIG_P: 338
   response: '7E8056206040152'
 - expected_values:
-    FORD_PCM_A_C_REFRIG_P: 484
-  response: 7E80562060401E4
+    FORD_PCM_A_C_REFRIG_P: 500
+  response: 7E80562060401F4
 - expected_values:
     FORD_PCM_A_C_REFRIG_P: 542
   response: 7E805620604021E

@@ -1,20 +1,43 @@
+references:
+  - "https://en.wikipedia.org/wiki/Ford_Transit"
+
 generations:
   - name: "First Generation"
     start_year: 1965
+    end_year: 1977
+    description: "The original Ford Transit revolutionized the European van market with car-like driving dynamics and styling that contrasted with forward-control designs common at the time. Introduced in October 1965 as Ford of Europe's first unified platform, it featured front engine/rear-wheel drive architecture with Essex V4 engines in the UK (1.7L and 2.0L) and Taunus V4 engines in mainland Europe (1.3L, 1.5L, and 1.7L). A diesel option from Perkins (43 hp) was offered but proved unpopular due to being underpowered; it was replaced by Ford's own York engine in 1972. The diesel version required a longer bonnet nicknamed the 'pig snout' to accommodate the engine length. Available in numerous configurations including panel van, minibus, pickup, and chassis cab, it gained a reputation for versatility and durability. A minor facelift in 1971 updated front end styling on V4 models with a safety-padded dashboard."
+
+  - name: "First Generation (Mark II Facelift)"
+    start_year: 1977
     end_year: 1986
-    description: "The original Ford Transit revolutionized the European van market with car-like driving dynamics and styling that contrasted with the forward-control designs common at the time. Available in numerous configurations including panel van, minibus, pickup, and chassis cab, it featured front engine/rear-wheel drive architecture. Initial engines included V4 units with diesel options added later. The Transit gained a reputation for versatility, durability, and relative driving pleasure compared to competitors. During its extensive production run, it received multiple updates to styling, powertrains, and capabilities. This generation established the Transit as Ford's flagship commercial vehicle in Europe and created the template for modern delivery vans."
+    description: "In August 1977, a facelifted version codenamed 'Transit 1978½' but commonly called the Mark II debuted with a restyled, longer nose section that could properly accommodate inline engines. This allowed the Ford Pinto engine from the Cortina to become the Transit's dominant power unit (1.6L OHC and 2.0L OHC petrol options). The new frontal styling brought the Transit in line with Ford of Europe's passenger car range with square headlamps and black louvred grille. The austere dashboard was replaced with a full-width plastic fascia from the Taunus/Cortina Mk4. High-performance versions used the 3.0L Essex V6 for police and ambulance services. In 1984, a minor facelift added grey plastic front grille with integrated headlamp surrounds and multifunction rear lights. Four-wheel drive was offered from 1982 for the German market, developed with Sinpar."
 
   - name: "Second Generation"
     start_year: 1986
     end_year: 2000
-    description: "The second-generation Transit (often called the Mark 3 in the UK due to major Mark 2 updates to the first generation) featured a completely new exterior design with improved aerodynamics while maintaining the front-engine, rear-wheel drive layout. Available in various wheelbases, roof heights, and body configurations, it continued the versatile approach of its predecessor. Engine options expanded to include improved diesels and petrol options. The interior saw significant improvements in comfort and ergonomics as commercial vehicles began incorporating more car-like features. This generation further solidified the Transit's dominant position in European markets and expanded into global markets, becoming one of the world's best-selling commercial vehicles."
+    description: "Codenamed VE6, the second-generation Transit featured an all-new 'one-box' bodyshell design where windscreen and bonnet are at close to the same angle. Front suspension changed to fully independent configuration on SWB versions. Initial engines carried over from the Mark II, with the high-performance 3.0L Essex V6 replaced by Cologne 2.9 EFI V6 in 1989 due to emissions regulations. Assembly plants included Genk (Belgium), Southampton (UK), and Ford Otosan (Turkey). Production continued in China until 2017 and Vietnam until 2003. The platform was also built under license by Jiangling Motors in China."
+
+  - name: "Second Generation (1994 Facelift)"
+    start_year: 1994
+    end_year: 2000
+    description: "A major facelift in 1994 gave the Transit a new nose and dashboard along with the 2.0L DOHC 8-valve engine from the Ford Scorpio, updated to OBD II-compliant EEC-V engine control. This facelift introduced optional air conditioning, electric windows, central locking, electric mirrors, and airbags for the first time. Available engines included naturally aspirated diesels (70-76 PS) and turbodiesels (85-115 PS with intercooling from 1998). The 30th anniversary in 1995 saw a limited edition Transit Hallmark with 600 units produced. Production continued in some markets beyond European discontinuation."
 
   - name: "Third Generation"
     start_year: 2000
-    end_year: 2013
-    description: "The third-generation Transit represented a significant modernization with a more rounded, contemporary design. It introduced front-wheel drive variants alongside the traditional rear-wheel drive models, plus all-wheel drive options for specific applications. Available in an extensive range of configurations, it further expanded the Transit's versatility. Engine options focused increasingly on turbodiesel units for improved efficiency and torque, with the Duratorq TDCi engines becoming the mainstay of the range. The interior adopted a more car-like approach with improved comfort, materials, and technology. This generation became increasingly global, though North America continued with the domestically-developed E-Series vans until 2014."
+    end_year: 2014
+    description: "The third-generation Transit, introduced in July 2000, was Ford's first all-new design with 'New Edge' styling cues from the Focus and Ka. Developed in the United States, it was available in either front-wheel drive (V185) or rear-wheel drive (V184) configurations. Featured the Duratorq turbo diesel engine also used in the Mondeo and Jaguar X-Type, with petrol versions using a 2.3L 16-valve inline-four. Won International Van of the Year 2001. Production started at Ford-Otosan in Turkey, coinciding with Transit Connect introduction and ending Genk plant production. The five millionth Transit rolled off Southampton line in July 2005."
+
+  - name: "Third Generation (2006 Facelift)"
+    start_year: 2006
+    end_year: 2014
+    description: "The third-generation Transit received a major facelift in July 2006 including new front and rear lights, new front end styling, and a new interior with dashboard-mounted gearstick and Ford's new corporate radio design. Powertrains were revised: petrol engine replaced with Ranger-sourced unit, front-wheel-drive diesel increased from 2.0L to 2.2L capacity, all diesels gained High Pressure Common Rail systems (TDCi), and CAN bus electronics were introduced for the first time. The facelift brought Ford's new nomenclature V347 (FWD) and V348 (RWD), winning International Van of the Year 2007. A five-cylinder 3.2L diesel engine (200 PS) became available. Production ended at Southampton in 2013 but continued in China with modified forms."
 
   - name: "Fourth Generation"
-    start_year: 2013
+    start_year: 2014
     end_year: null
-    description: "The current Transit is a truly global vehicle, replacing both the European Transit and North American E-Series as part of Ford's One Ford strategy. Available in multiple size categories (Transit Custom for midsize applications and full-size Transit), it offers front-wheel, rear-wheel, and all-wheel drive configurations depending on model and market. Engine options vary globally but focus on efficient diesels like the EcoBlue range in Europe and EcoBoost gasoline engines in North America, with electric variants introduced more recently. The interior features significant improvements in technology, comfort, and safety with features like SYNC infotainment systems and comprehensive driver assistance options. Available in countless configurations including panel van, minibus, chassis cab, and more specialized applications, the fourth-generation Transit maintains its position as one of the world's most versatile and popular commercial vehicles. A significant facelift in 2019 updated styling and technology while adding hybrid options."
+    description: "The current Transit is a truly global vehicle, replacing both the European Transit lineage and North American E-Series as part of Ford's One Ford strategy. Built at Ford Otosan in Turkey (main global production), Kansas City Assembly in Missouri (North America), and later China. Available in multiple size categories including Transit Custom for midsize applications, offering front-wheel drive (outside North America), rear-wheel drive, and all-wheel drive configurations. Engine options include the EcoBlue diesel range in Europe (2.0L and 2.2L) and EcoBoost gasoline engines in North America, with the E-Transit electric variant introduced for 2022. Interior features significant improvements in technology, comfort and safety including SYNC infotainment systems."
+
+  - name: "Fourth Generation (2019 Facelift)"
+    start_year: 2019
+    end_year: null
+    description: "A significant facelift in 2019 updated styling and technology while adding hybrid options. The Tourneo Custom plug-in hybrid was introduced featuring a 1.0L EcoBoost range-extender engine. The facelift brought updated front and rear styling in line with Ford's current design language, new interior technologies, and enhanced driver assistance features. The E-Transit electric version was added to the range for 2022, offering a fully electric powertrain while maintaining the same chassis configurations as diesel variants."

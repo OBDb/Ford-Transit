@@ -5,38 +5,6 @@ test_cases:
     FORD_BATT_AGE: 65
   response: '72E056240270041'
 - expected_values:
-    FORD_12V_AGE: 1584
-    FORD_BATT_AGE: 66
-  response: '72E056240270042'
-- expected_values:
-    FORD_12V_AGE: 1608
-    FORD_BATT_AGE: 67
-  response: '72E056240270043'
-- expected_values:
-    FORD_12V_AGE: 1632
-    FORD_BATT_AGE: 68
-  response: '72E056240270044'
-- expected_values:
-    FORD_12V_AGE: 1656
-    FORD_BATT_AGE: 69
-  response: '72E056240270045'
-- expected_values:
-    FORD_12V_AGE: 1704
-    FORD_BATT_AGE: 71
-  response: '72E056240270047'
-- expected_values:
-    FORD_12V_AGE: 1800
-    FORD_BATT_AGE: 75
-  response: 72E05624027004B
-- expected_values:
-    FORD_12V_AGE: 1824
-    FORD_BATT_AGE: 76
-  response: 72E05624027004C
-- expected_values:
-    FORD_12V_AGE: 1848
-    FORD_BATT_AGE: 77
-  response: 72E05624027004D
-- expected_values:
-    FORD_12V_AGE: 1872
-    FORD_BATT_AGE: 78
-  response: 72E05624027004E
+    FORD_12V_AGE: 1968
+    FORD_BATT_AGE: 82
+  response: '72E056240270052'

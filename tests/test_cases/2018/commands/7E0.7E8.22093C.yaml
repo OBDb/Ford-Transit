@@ -4,8 +4,8 @@ test_cases:
     FORD_ETC_ANG_ACT: 1.56055
   response: 7E80562093C031F
 - expected_values:
-    FORD_ETC_ANG_ACT: 15.97656
-  response: 7E80562093C1FF4
+    FORD_ETC_ANG_ACT: 2.99219
+  response: 7E80562093C05FC
 - expected_values:
     FORD_ETC_ANG_ACT: 82
   response: 7E80562093CA400

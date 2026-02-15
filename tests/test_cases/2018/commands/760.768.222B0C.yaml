@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     FORD_LAT_ANG: -1
   response: 76805622B0CFFF5
+- expected_values:
+    FORD_LAT_ANG: -1
+  response: 76805622B0CFFFF

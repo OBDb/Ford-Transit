@@ -4,23 +4,5 @@ test_cases:
     FORD_MAP: 4.93132
   response: 7E80462F40B22
 - expected_values:
-    FORD_MAP: 5.2214
-  response: 7E80462F40B24
-- expected_values:
-    FORD_MAP: 5.36644
-  response: 7E80462F40B25
-- expected_values:
-    FORD_MAP: 5.51148
-  response: 7E80462F40B26
-- expected_values:
-    FORD_MAP: 5.65652
-  response: 7E80462F40B27
-- expected_values:
-    FORD_MAP: 5.80156
-  response: 7E80462F40B28
-- expected_values:
-    FORD_MAP: 5.9466
-  response: 7E80462F40B29
-- expected_values:
-    FORD_MAP: 6.38171
-  response: 7E80462F40B2C
+    FORD_MAP: 14.06878
+  response: 7E80462F40B61

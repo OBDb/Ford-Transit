@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F42F
 test_cases:
 - expected_values:
-    FORD_FLI: 53.72549
-  response: 7E80462F42F89
+    FORD_FLI: 47.45098
+  response: 7E80462F42F79
 - expected_values:
     FORD_FLI: 69.41176
   response: 7E80462F42FB1

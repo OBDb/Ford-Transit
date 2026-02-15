@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     FORD_VSS_HD: 0
   response: '7E8056215050000'
+- expected_values:
+    FORD_VSS_HD: 113.86719
+  response: 7E80562150538EF
+- expected_values:
+    FORD_VSS_HD: 114.52344
+  response: '7E8056215053943'

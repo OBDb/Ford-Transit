@@ -4,8 +4,8 @@ test_cases:
     FORD_EVAP_PURGE_CMD: 0
   response: '7E8056211660000'
 - expected_values:
-    FORD_EVAP_PURGE_CMD: 77.24915
-  response: 7E80562116662E1
+    FORD_EVAP_PURGE_CMD: 97.64404
+  response: 7E8056211667CFC
 - expected_values:
-    FORD_EVAP_PURGE_CMD: 78.53088
-  response: '7E8056211666485'
+    FORD_EVAP_PURGE_CMD: 98.99597
+  response: 7E8056211667EB7

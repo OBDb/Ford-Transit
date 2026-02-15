@@ -12,3 +12,21 @@ test_cases:
 - expected_values:
     FORD_VCT_INT_ERR: 0.1875
   response: 7E80562031A0003
+- expected_values:
+    FORD_VCT_INT_ERR: 0.8125
+  response: 7E80562031A000D
+- expected_values:
+    FORD_VCT_INT_ERR: 1
+  response: 7E80562031A0010
+- expected_values:
+    FORD_VCT_INT_ERR: 50
+  response: 7E80562031AFFFC
+- expected_values:
+    FORD_VCT_INT_ERR: 50
+  response: 7E80562031AFFFD
+- expected_values:
+    FORD_VCT_INT_ERR: 50
+  response: 7E80562031AFFFE
+- expected_values:
+    FORD_VCT_INT_ERR: 50
+  response: 7E80562031AFFFF

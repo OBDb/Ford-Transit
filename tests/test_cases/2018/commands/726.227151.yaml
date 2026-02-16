@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     FORD_HIGHBEAM_STATUS: 2
   response: '72E0762715100800000'
+- expected_values:
+    FORD_HIGHBEAM_STATUS: 2
+  response: '72E0762715120000000'

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2203CA
+test_cases:
+- expected_values:
+    FORD_MCT: 44
+  response: 7E8046203CA2C
+- expected_values:
+    FORD_MCT: 45
+  response: 7E8046203CA2D

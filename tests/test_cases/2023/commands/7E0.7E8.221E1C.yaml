@@ -4,23 +4,11 @@ test_cases:
     FORD_TOT: 5.8125
   response: 7E805621E1C005D
 - expected_values:
-    FORD_TOT: 6
-  response: 7E805621E1C0060
-- expected_values:
     FORD_TOT: 17.375
   response: 7E805621E1C0116
 - expected_values:
-    FORD_TOT: 17.6875
-  response: 7E805621E1C011B
+    FORD_TOT: 30.75
+  response: 7E805621E1C01EC
 - expected_values:
-    FORD_TOT: 19.4375
-  response: 7E805621E1C0137
-- expected_values:
-    FORD_TOT: 19.625
-  response: 7E805621E1C013A
-- expected_values:
-    FORD_TOT: 21.4375
-  response: 7E805621E1C0157
-- expected_values:
-    FORD_TOT: 21.625
-  response: 7E805621E1C015A
+    FORD_TOT: 50.1875
+  response: 7E805621E1C0323

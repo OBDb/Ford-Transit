@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.22035F
 test_cases:
 - expected_values:
-    FORD_RO2_V: 0.80176
-  response: 7E80562035F0335
+    FORD_RO2_V: 0.125
+  response: 7E80562035F0080
 - expected_values:
-    FORD_RO2_V: 0.81055
-  response: 7E80562035F033E
+    FORD_RO2_V: 0.69922
+  response: 7E80562035F02CC
 - expected_values:
-    FORD_RO2_V: 0.82031
-  response: 7E80562035F0348
-- expected_values:
-    FORD_RO2_V: 0.82617
-  response: 7E80562035F034E
+    FORD_RO2_V: 0.75293
+  response: 7E80562035F0303

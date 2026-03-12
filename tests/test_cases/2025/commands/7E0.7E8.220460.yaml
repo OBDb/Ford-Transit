@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     FORD_CAT_SENS_V: 2.25098
   response: '7E8056204600901'
+- expected_values:
+    FORD_CAT_SENS_V: 3.1543
+  response: 7E8056204600C9E

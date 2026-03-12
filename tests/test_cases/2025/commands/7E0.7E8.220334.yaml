@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220334
 test_cases:
 - expected_values:
-    FORD_PCM_CYL_HEAD_T_CORR: 51.07812
-  response: 7E8056203340CC5
+    FORD_PCM_CYL_HEAD_T_CORR: 38.67188
+  response: 7E80562033409AB
 - expected_values:
     FORD_PCM_CYL_HEAD_T_CORR: 68.28125
   response: '7E8056203341112'

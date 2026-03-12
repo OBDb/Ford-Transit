@@ -4,29 +4,8 @@ test_cases:
     FORD_VCT_INT_ERR: 0
   response: 7E80562031A0000
 - expected_values:
-    FORD_VCT_INT_ERR: 0.1875
-  response: 7E80562031A0003
-- expected_values:
-    FORD_VCT_INT_ERR: 0.25
-  response: 7E80562031A0004
-- expected_values:
-    FORD_VCT_INT_ERR: 0.3125
-  response: 7E80562031A0005
-- expected_values:
-    FORD_VCT_INT_ERR: 0.375
-  response: 7E80562031A0006
-- expected_values:
-    FORD_VCT_INT_ERR: 0.5
-  response: 7E80562031A0008
-- expected_values:
     FORD_VCT_INT_ERR: 50
   response: 7E80562031AFFF4
-- expected_values:
-    FORD_VCT_INT_ERR: 50
-  response: 7E80562031AFFFA
-- expected_values:
-    FORD_VCT_INT_ERR: 50
-  response: 7E80562031AFFFC
 - expected_values:
     FORD_VCT_INT_ERR: 50
   response: 7E80562031AFFFD

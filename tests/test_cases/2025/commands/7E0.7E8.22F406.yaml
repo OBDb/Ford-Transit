@@ -1,32 +1,8 @@
 command_id: 7E0.7E8.22F406
 test_cases:
 - expected_values:
-    FORD_STFT: -5.46875
-  response: 7E80462F40679
+    FORD_STFT: -25
+  response: 7E80462F40660
 - expected_values:
-    FORD_STFT: 0.78125
-  response: 7E80462F40681
-- expected_values:
-    FORD_STFT: 2.34375
-  response: 7E80462F40683
-- expected_values:
-    FORD_STFT: 3.125
-  response: 7E80462F40684
-- expected_values:
-    FORD_STFT: 3.90625
-  response: 7E80462F40685
-- expected_values:
-    FORD_STFT: 4.6875
-  response: 7E80462F40686
-- expected_values:
-    FORD_STFT: 5.46875
-  response: 7E80462F40687
-- expected_values:
-    FORD_STFT: 6.25
-  response: 7E80462F40688
-- expected_values:
-    FORD_STFT: 8.59375
-  response: 7E80462F4068B
-- expected_values:
-    FORD_STFT: 9.375
-  response: 7E80462F4068C
+    FORD_STFT: 30.46875
+  response: 7E80462F406A7

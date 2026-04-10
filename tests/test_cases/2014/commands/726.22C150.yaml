@@ -6,6 +6,15 @@ test_cases:
     FORD_RLD_OPEN: 0
     FORD_RRD_OPEN: 0
     FORD_TRUNK_OPEN: 0
+  response: |-
+    22C150
+    72E0762C15000000002
+- expected_values:
+    FORD_DRIVER_DOOR_OPEN: 0
+    FORD_PASSENGER_DOOR_OPEN: 0
+    FORD_RLD_OPEN: 0
+    FORD_RRD_OPEN: 0
+    FORD_TRUNK_OPEN: 0
   response: 72E0762C15000000000
 - expected_values:
     FORD_DRIVER_DOOR_OPEN: 0

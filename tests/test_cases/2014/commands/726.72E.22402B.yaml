@@ -11,8 +11,8 @@ test_cases:
     22402B
     72E0562402B204E
 - expected_values:
-    FORD_12V_A: -107
-  response: 72E0562402B1432
+    FORD_12V_A: -109
+  response: 72E0562402B12F6
 - expected_values:
     FORD_12V_A: -96
   response: 72E0562402B1FFF

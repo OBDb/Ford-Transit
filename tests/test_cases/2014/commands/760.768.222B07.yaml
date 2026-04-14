@@ -11,6 +11,11 @@ test_cases:
     222B07
     76804622B0724
 - expected_values:
+    FORD_FL_VSS: 39
+  response: |-
+    222B07
+    76804622B0727
+- expected_values:
     FORD_FL_VSS: 0
   response: 76804622B0700
 - expected_values:

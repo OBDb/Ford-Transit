@@ -4,8 +4,8 @@ test_cases:
     FORD_IAT_SENS_V: 0
   response: '7E8056212790000'
 - expected_values:
-    FORD_IAT_SENS_V: 2.40469
-  response: 7E80562127901EC
+    FORD_IAT_SENS_V: 2.49756
+  response: 7E80562127901FF
 - expected_values:
-    FORD_IAT_SENS_V: 2.51711
-  response: '7E8056212790203'
+    FORD_IAT_SENS_V: 2.50244
+  response: '7E8056212790200'

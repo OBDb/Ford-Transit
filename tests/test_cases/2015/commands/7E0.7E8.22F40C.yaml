@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F40C
+test_cases:
+- expected_values:
+    FORD_RPM: 629
+  response: 7E80562F40C09D4
+- expected_values:
+    FORD_RPM: 632
+  response: 7E80562F40C09E0
+- expected_values:
+    FORD_RPM: 641.25
+  response: 7E80562F40C0A05

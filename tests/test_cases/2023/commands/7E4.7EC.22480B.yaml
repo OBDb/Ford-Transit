@@ -1,0 +1,11 @@
+command_id: 7E4.7EC.22480B
+test_cases:
+- expected_values:
+    FORD_HVBAT_A_ALT: 0
+  response: 7EC0562480B0000
+- expected_values:
+    FORD_HVBAT_A_ALT: 20.44
+  response: 7EC0562480B03FE
+- expected_values:
+    FORD_HVBAT_A_ALT: -4.7
+  response: 7EC0562480BFF15

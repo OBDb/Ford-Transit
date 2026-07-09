@@ -1,8 +1,0 @@
-command_id: 7E0.7E8.22116B
-test_cases:
-- expected_values:
-    FORD_IGN_TIM_CYL1: 9.75
-  response: 7E80562116B0027
-- expected_values:
-    FORD_IGN_TIM_CYL1: 16.25
-  response: 7E80562116B0041

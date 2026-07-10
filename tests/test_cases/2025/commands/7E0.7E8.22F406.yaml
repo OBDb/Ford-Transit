@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F406
+test_cases:
+- expected_values:
+    FORD_STFT: -25
+  response: 7E80462F40660
+- expected_values:
+    FORD_STFT: 30.46875
+  response: 7E80462F406A7

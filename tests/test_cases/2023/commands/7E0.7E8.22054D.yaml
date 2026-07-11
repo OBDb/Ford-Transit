@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22054D
 test_cases:
 - expected_values:
-    FORD_LPFP_SENS_V: 0.62305
-  response: 7E80562054D027E
+    FORD_LPFP_SENS_V: 0.60742
+  response: 7E80562054D026E
 - expected_values:
     FORD_LPFP_SENS_V: 2.24902
   response: 7E80562054D08FF

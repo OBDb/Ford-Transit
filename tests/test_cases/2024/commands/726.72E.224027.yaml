@@ -1,0 +1,6 @@
+command_id: 726.72E.224027
+test_cases:
+- expected_values:
+    FORD_12V_AGE: 19728
+    FORD_BATT_AGE: 822
+  response: '72E056240270336'

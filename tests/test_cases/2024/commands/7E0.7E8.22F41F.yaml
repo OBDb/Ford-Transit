@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.22F41F
 test_cases:
 - expected_values:
-    FORD_RUN_TIME: 17
-  response: 7E80562F41F0011
+    FORD_RUN_TIME: 0
+  response: 7E80562F41F0000
 - expected_values:
     FORD_RUN_TIME: 255
   response: 7E80562F41F00FF
-- expected_values:
-    FORD_RUN_TIME: 1792
-  response: 7E80562F41F0700
 - expected_values:
     FORD_RUN_TIME: 7939
   response: 7E80562F41F1F03

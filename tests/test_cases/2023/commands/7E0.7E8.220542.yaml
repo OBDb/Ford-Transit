@@ -4,5 +4,5 @@ test_cases:
     FORD_DIST_SINCE_OIL: 2437
   response: '7E8056205420985'
 - expected_values:
-    FORD_DIST_SINCE_OIL: 2509
-  response: 7E80562054209CD
+    FORD_DIST_SINCE_OIL: 2553
+  response: 7E80562054209F9

@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     FORD_TRANSFER_CASE_FLUID_T: 47.9375
   response: 7E80562070D02FF
+- expected_values:
+    FORD_TRANSFER_CASE_FLUID_T: 48.0625
+  response: 7E80562070D0301

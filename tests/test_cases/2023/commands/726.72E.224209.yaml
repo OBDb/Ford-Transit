@@ -1,11 +1,14 @@
 command_id: 726.72E.224209
 test_cases:
 - expected_values:
+    FORD_BAT_CURRENT: 0.5
+  response: 72E07624209000002A0
+- expected_values:
     FORD_BAT_CURRENT: 3.75
   response: 72E0762420900000FE0
 - expected_values:
     FORD_BAT_CURRENT: 12.25
   response: '72E0762420900003100'
 - expected_values:
-    FORD_BAT_CURRENT: 43.75
-  response: 72E076242090000AF00
+    FORD_BAT_CURRENT: 47.5
+  response: 72E076242090000BE80

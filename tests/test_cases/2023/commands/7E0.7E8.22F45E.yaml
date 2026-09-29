@@ -7,5 +7,5 @@ test_cases:
     FORD_ENG_FUEL_RATE: 11.7
   response: 7E80562F45E00EA
 - expected_values:
-    FORD_ENG_FUEL_RATE: 14.95
-  response: 7E80562F45E012B
+    FORD_ENG_FUEL_RATE: 14.75
+  response: 7E80562F45E0127

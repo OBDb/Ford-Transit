@@ -4,11 +4,11 @@ test_cases:
     FORD_FAN_SPD_DES: 7.49523
   response: 7E8056203B90998
 - expected_values:
-    FORD_FAN_SPD_DES: 15.62524
-  response: 7E8056203B91400
+    FORD_FAN_SPD_DES: 14.06271
+  response: 7E8056203B91200
 - expected_values:
-    FORD_FAN_SPD_DES: 17.82254
-  response: 7E8056203B916D0
+    FORD_FAN_SPD_DES: 16.39429
+  response: 7E8056203B914FC
 - expected_values:
     FORD_FAN_SPD_DES: 28.44282
   response: 7E8056203B92468

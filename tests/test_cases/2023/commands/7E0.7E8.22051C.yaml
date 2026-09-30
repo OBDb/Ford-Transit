@@ -4,5 +4,5 @@ test_cases:
     FORD_CHG_AIR_T: 14
   response: 7E80462051C36
 - expected_values:
-    FORD_CHG_AIR_T: 48
-  response: 7E80462051C58
+    FORD_CHG_AIR_T: 49
+  response: 7E80462051C59

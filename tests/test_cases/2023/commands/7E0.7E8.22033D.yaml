@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22033D
 test_cases:
 - expected_values:
-    TRANSIT_MASS_AIRFLOW_SENS: 709.25
-  response: 7E80562033D0B15
+    TRANSIT_MASS_AIRFLOW_SENS: 694.75
+  response: 7E80562033D0ADB
 - expected_values:
     TRANSIT_MASS_AIRFLOW_SENS: 5120.25
   response: 7E80562033D5001

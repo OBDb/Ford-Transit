@@ -1,17 +1,17 @@
 command_id: 7E0.7E8.22F4A6
 test_cases:
 - expected_values:
-    FORD_PCM_VEH_ODO: 64707
+    TRANSIT_PCM_VEH_ODO: 64707
   response: 7E80762F4A60009DF9E
 - expected_values:
-    FORD_PCM_VEH_ODO: 64742.4
+    TRANSIT_PCM_VEH_ODO: 64742.4
   response: 7E80762F4A60009E100
 - expected_values:
-    FORD_PCM_VEH_ODO: 65075.1
+    TRANSIT_PCM_VEH_ODO: 65075.1
   response: 7E80762F4A60009EDFF
 - expected_values:
-    FORD_PCM_VEH_ODO: 65510.4
+    TRANSIT_PCM_VEH_ODO: 65510.4
   response: 7E80762F4A60009FF00
 - expected_values:
-    FORD_PCM_VEH_ODO: 65536.1
+    TRANSIT_PCM_VEH_ODO: 65536.1
   response: 7E80762F4A6000A0001

@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.22038E
 test_cases:
 - expected_values:
-    FORD_EVAP_V: 5
-    FORD_[ECU] EVAP PRES SENSOR V: 5
+    TRANSIT_EVAP_RAW: 1961
   response: 7E80562038E07A9
 - expected_values:
-    FORD_EVAP_V: 5
-    FORD_[ECU] EVAP PRES SENSOR V: 5
+    TRANSIT_EVAP_RAW: 2046
   response: 7E80562038E07FE
 - expected_values:
-    FORD_EVAP_V: 5
-    FORD_[ECU] EVAP PRES SENSOR V: 5
+    TRANSIT_EVAP_RAW: 2567
   response: 7E80562038E0A07

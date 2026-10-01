@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221166
 test_cases:
 - expected_values:
-    FORD_EVAP_PURGE_CMD: 0
+    TRANSIT_EVAP_PURGE_CMD: 0
   response: '7E8056211660000'
 - expected_values:
-    FORD_EVAP_PURGE_CMD: 3.12195
+    TRANSIT_EVAP_PURGE_CMD: 3.12195
   response: 7E80562116603FF
 - expected_values:
-    FORD_EVAP_PURGE_CMD: 98.45276
+    TRANSIT_EVAP_PURGE_CMD: 98.45276
   response: 7E8056211667E05

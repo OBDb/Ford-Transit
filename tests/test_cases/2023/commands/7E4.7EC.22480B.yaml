@@ -1,11 +1,11 @@
 command_id: 7E4.7EC.22480B
 test_cases:
 - expected_values:
-    FORD_HVBAT_A: 0
+    TRANSIT_HVBAT_CURRENT: 0
   response: 7EC0562480B0000
 - expected_values:
-    FORD_HVBAT_A: 20.44
+    TRANSIT_HVBAT_CURRENT: 20.44
   response: 7EC0562480B03FE
 - expected_values:
-    FORD_HVBAT_A: -4.7
+    TRANSIT_HVBAT_CURRENT: -4.7
   response: 7EC0562480BFF15

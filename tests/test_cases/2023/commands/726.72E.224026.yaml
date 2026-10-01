@@ -1,8 +1,8 @@
 command_id: 726.72E.224026
 test_cases:
 - expected_values:
-    FORD_NORM_CUM_DCHG_BAT_OFF: 0
+    TRANSIT_NORM_CUM_DCHG_BAT_OFF: 5.5
   response: '72E056240260037'
 - expected_values:
-    FORD_NORM_CUM_DCHG_BAT_OFF: 0
+    TRANSIT_NORM_CUM_DCHG_BAT_OFF: 5.6
   response: '72E056240260038'

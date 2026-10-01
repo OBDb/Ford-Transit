@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2203F3
 test_cases:
 - expected_values:
-    FORD_SUMP_OIL_T_MEAS: 14
+    TRANSIT_SUMP_OIL_T_MEAS: 14
   response: 7E8046203F336
 - expected_values:
-    FORD_SUMP_OIL_T_MEAS: 99
+    TRANSIT_SUMP_OIL_T_MEAS: 99
   response: 7E8046203F38B

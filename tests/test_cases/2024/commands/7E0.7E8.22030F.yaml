@@ -1,14 +1,14 @@
-command_id: 7E0.22030F
+command_id: 7E0.7E8.22030F
 test_cases:
 - expected_values:
-    FORD_CL: 0.75235
+    TRANSIT_CL: 0.75235
   response: 7E80562030F604D
 - expected_values:
-    FORD_CL: 0.8906
+    TRANSIT_CL: 0.89059
   response: 7E80562030F71FF
 - expected_values:
-    FORD_CL: 0.96094
+    TRANSIT_CL: 0.96094
   response: 7E80562030F7B00
 - expected_values:
-    FORD_CL: 1.27377
+    TRANSIT_CL: 1.27377
   response: 7E80562030FA30B

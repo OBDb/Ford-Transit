@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2203B9
 test_cases:
 - expected_values:
-    FORD_FAN_SPD_DES: 7.49523
+    TRANSIT_FAN_SPD_DES: 7.49523
   response: 7E8056203B90998
 - expected_values:
-    FORD_FAN_SPD_DES: 9.36294
+    TRANSIT_FAN_SPD_DES: 9.36294
   response: 7E8056203B90BFC
 - expected_values:
-    FORD_FAN_SPD_DES: 14.06271
+    TRANSIT_FAN_SPD_DES: 14.06271
   response: 7E8056203B91200
 - expected_values:
-    FORD_FAN_SPD_DES: 100
+    TRANSIT_FAN_SPD_DES: 100
   response: 7E8056203B98000

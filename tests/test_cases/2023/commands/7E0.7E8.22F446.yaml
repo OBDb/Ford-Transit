@@ -12,3 +12,15 @@ test_cases:
 - expected_values:
     TRANSIT_AAT_7E0: 16
   response: 7E80462F44638
+- expected_values:
+    TRANSIT_AAT_7E0: 18
+  response: 7E80462F4463A
+- expected_values:
+    TRANSIT_AAT_7E0: 19
+  response: 7E80462F4463B
+- expected_values:
+    TRANSIT_AAT_7E0: 20
+  response: 7E80462F4463C
+- expected_values:
+    TRANSIT_AAT_7E0: 21
+  response: 7E80462F4463D

@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22053F
 test_cases:
 - expected_values:
+    TRANSIT_TIME_SINCE_OIL: 694.98741
+  response: 7E80562053FB1EA
+- expected_values:
     TRANSIT_TIME_SINCE_OIL: 695.99451
   response: 7E80562053FB22C
 - expected_values:

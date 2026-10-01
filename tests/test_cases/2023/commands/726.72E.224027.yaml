@@ -4,8 +4,8 @@ test_cases:
     TRANSIT_12V_AGE: 1200
   response: '72E056240270032'
 - expected_values:
-    TRANSIT_12V_AGE: 4560
-  response: 72E0562402700BE
+    TRANSIT_12V_AGE: 4584
+  response: 72E0562402700BF
 - expected_values:
     TRANSIT_12V_AGE: 26448
   response: 72E05624027044E

@@ -99,7 +99,7 @@
   "signals": [
     {"id": "TRANSIT_BAT_CURRENT_726", "path": "Engine", "fmt": { "len": 16, "max": 3584.2375, "min": -511.7, "div": 16, "add": -511.7, "unit": "amps" }, "name": "Battery current"}
   ]},
-{ "hdr": "726", "rax": "72E", "dbg": true, "cmd": {"22": "40D1"}, "freq": 1,
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "40D1"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "TRANSIT_AUX_12V_BAT_CTRL", "path": "Battery", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Aux 12V battery control mode"}
   ]},
@@ -318,7 +318,7 @@
   "signals": [
     {"id": "TRANSIT_TIP_V", "path": "Engine", "fmt": { "len": 16, "max": 5, "mul": 5, "div": 1024, "unit": "volts" }, "name": "Throttle inlet pressure sensor voltage"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "033D"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "033D"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "TRANSIT_MASS_AIRFLOW_SENS", "path": "Engine", "fmt": { "len": 16, "max": 16383, "div": 4, "unit": "hertz" }, "name": "Mass airflow sensor frequency"}
   ]},
@@ -458,7 +458,7 @@
   "signals": [
     {"id": "TRANSIT_PCM_ENG_EOP_RAW", "path": "Engine", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "kilopascal" }, "name": "Oil pressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0416"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0416"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "TRANSIT_GLOW_PLUG_CMD_STAT", "path": "Engine", "fmt": {           "len": 8, "max": 251, "min": -4, "add": -4, "unit": "scalar" }, "name": "Glow plug, commanded status"},
     {"id": "TRANSIT_LOW_OIL_P_SWITCH",   "path": "Engine", "fmt": {"bix": 22, "len": 1, "max": 1,                         "unit": "offon"  }, "name": "Low oil pressure switch"}
@@ -511,19 +511,19 @@
   "signals": [
     {"id": "TRANSIT_CYL_7_FUEL_BALANCE", "path": "Fuel", "fmt": {"bix": 8, "len": 24, "max": 65.53, "min": -65.53, "div": 128000, "sign": true, "unit": "scalar" }, "name": "Cylinder 7 fuel balance correction"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "04AA"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "04AA"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "TRANSIT_CYL_1_FUEL_QTY", "path": "Fuel", "fmt": {"bix": 8, "len": 24, "max": 65.53, "min": -65.53, "div": 128000, "sign": true, "unit": "scalar" }, "name": "Cylinder 1 fuel quantity"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "04AB"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "04AB"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "TRANSIT_CYL_2_FUEL_QTY", "path": "Fuel", "fmt": {"bix": 8, "len": 24, "max": 65.53, "min": -65.53, "div": 128000, "sign": true, "unit": "scalar" }, "name": "Cylinder 2 fuel quantity"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "04AC"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "04AC"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "TRANSIT_CYL_3_FUEL_QTY", "path": "Fuel", "fmt": {"bix": 8, "len": 24, "max": 65.53, "min": -65.53, "div": 128000, "sign": true, "unit": "scalar" }, "name": "Cylinder 3 fuel quantity"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "04AD"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "04AD"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "TRANSIT_CYL_4_FUEL_QTY", "path": "Fuel", "fmt": {"bix": 8, "len": 24, "max": 65.53, "min": -65.53, "div": 128000, "sign": true, "unit": "scalar" }, "name": "Cylinder 4 fuel quantity"}
   ]},
@@ -559,7 +559,7 @@
   "signals": [
     {"id": "TRANSIT_FUEL_T", "path": "Fuel", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Fuel temperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "052E"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "052E"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "TRANSIT_EGR_OPEN", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 20, "div": 51, "unit": "percent" }, "name": "Exhaust gas recirculation open"}
   ]},
@@ -571,7 +571,7 @@
   "signals": [
     {"id": "TRANSIT_DIST_SINCE_OIL", "path": "Trips", "fmt": { "len": 16, "max": 65535, "unit": "kilometers" }, "name": "Distance since last oil change"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0543"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0543"}, "freq": 5, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "TRANSIT_EGR_T_7E0", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Exhaust gas recirculation temperature"}
   ]},
@@ -671,19 +671,19 @@
   "signals": [
     {"id": "TRANSIT_VGT_DUTY", "path": "Engine", "fmt": { "len": 16, "max": 200, "mul": 100, "div": 32767, "unit": "percent" }, "name": "Variable geometry turbo duty cycle"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "098A"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "098A"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "TRANSIT_CYL_1_FUEL_BALANCE", "path": "Fuel", "fmt": {"bix": 8, "len": 24, "max": 65.53, "min": -65.53, "div": 128000, "sign": true, "unit": "scalar" }, "name": "Cylinder 1 fuel balance correction"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "098B"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "098B"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "TRANSIT_CYL_2_FUEL_BALANCE", "path": "Fuel", "fmt": {"bix": 8, "len": 24, "max": 65.53, "min": -65.53, "div": 128000, "sign": true, "unit": "scalar" }, "name": "Cylinder 2 fuel balance correction"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "098C"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "098C"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "TRANSIT_CYL_3_FUEL_BALANCE", "path": "Fuel", "fmt": {"bix": 8, "len": 24, "max": 65.53, "min": -65.53, "div": 128000, "sign": true, "unit": "scalar" }, "name": "Cylinder 3 fuel balance correction"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "098D"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "098D"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "TRANSIT_CYL_4_FUEL_BALANCE", "path": "Fuel", "fmt": {"bix": 8, "len": 24, "max": 65.53, "min": -65.53, "div": 128000, "sign": true, "unit": "scalar" }, "name": "Cylinder 4 fuel balance correction"}
   ]},
@@ -811,7 +811,7 @@
   "signals": [
     {"id": "TRANSIT_EOT_VAR_2", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Engine oil temperature, variant 2"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dout": "00", "dbg": true, "cmd": {"22": "1411"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "dout": "00", "cmd": {"22": "1411"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "TRANSIT_VOLUME_FUEL_DES", "path": "Fuel", "fmt": { "len": 16, "max": 4095, "div": 16, "unit": "scalar" }, "name": "Volume fuel, desired"}
   ]},
@@ -1006,11 +1006,11 @@
   "signals": [
     {"id": "TRANSIT_4_WHL_DRIVE_ENGAGED", "path": "Tires", "fmt": { "len": 16, "max": 6553, "div": 10, "unit": "scalar" }, "name": "4 wheel drive engaged"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "D113"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "D113"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "TRANSIT_ALTERNATOR_CURRENT", "path": "Engine", "fmt": { "len": 16, "max": 3276, "div": 20, "unit": "amps" }, "name": "Alternator current output"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "D137"}, "freq": 3600,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "D137"}, "freq": 3600, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "TRANSIT_DTC_CNT", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "DTC counter"}
   ]},
@@ -1082,7 +1082,7 @@
   "signals": [
     {"id": "TRANSIT_ENG_LOAD_ACT", "path": "Engine", "fmt": { "len": 16, "max": 25700, "mul": 100, "div": 255, "unit": "percent" }, "name": "Engine load, actual"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "F446"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F446"}, "freq": 5, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "TRANSIT_AAT_7E0", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Ambient air temperature"}
   ]},
@@ -1106,7 +1106,7 @@
   "signals": [
     {"id": "TRANSIT_EGR_T_7E0_7E0", "path": "Engine", "fmt": { "len": 16, "max": 6513, "min": -40, "div": 10, "add": -40, "unit": "celsius" }, "name": "Exhaust gas recirculation temperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "F478"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F478"}, "freq": 5, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "TRANSIT_EGT_B1", "path": "Engine", "fmt": { "len": 16, "max": 6513, "min": -40, "div": 10, "add": -40, "unit": "celsius" }, "name": "Exhaust gas temperature, bank 1"}
   ]},

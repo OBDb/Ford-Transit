@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22098B
+test_cases:
+- expected_values:
+    TRANSIT_CYL_2_FUEL_BALANCE: 0
+  response: 7E80762098B00000000
+- expected_values:
+    TRANSIT_CYL_2_FUEL_BALANCE: 0.12799
+  response: 7E80762098B00003FFF
+- expected_values:
+    TRANSIT_CYL_2_FUEL_BALANCE: -0.04096
+  response: 7E80762098BFFFFEB85
+- expected_values:
+    TRANSIT_CYL_2_FUEL_BALANCE: -0.01537
+  response: 7E80762098BFFFFF851

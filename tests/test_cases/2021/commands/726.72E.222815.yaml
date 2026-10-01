@@ -10,5 +10,5 @@ test_cases:
     TRANSIT_TP_RRO: 76.8
   response: '72E056228150600'
 - expected_values:
-    TRANSIT_TP_RRO: 89.95
-  response: '72E056228150707'
+    TRANSIT_TP_RRO: null
+  response: 72E056228150BB8

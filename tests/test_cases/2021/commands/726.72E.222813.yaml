@@ -10,5 +10,5 @@ test_cases:
     TRANSIT_TP_FL: 51.2
   response: '72E056228130400'
 - expected_values:
-    TRANSIT_TP_FL: 64
-  response: '72E056228130500'
+    TRANSIT_TP_FL: null
+  response: 72E056228130BB8

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221411|dout=00
+test_cases:
+- expected_values:
+    TRANSIT_VOLUME_FUEL_DES: 0
+  response: '7E8056214110000'
+- expected_values:
+    TRANSIT_VOLUME_FUEL_DES: 15.6875
+  response: 7E80562141100FB
+- expected_values:
+    TRANSIT_VOLUME_FUEL_DES: 54.75
+  response: 7E805621411036C

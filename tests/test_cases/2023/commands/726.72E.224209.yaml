@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     TRANSIT_BAT_CURRENT: 62.25
   response: 72E076242090000F940
+- expected_values:
+    TRANSIT_BAT_CURRENT: 4194300.25
+  response: 72E07624209FFFFF140

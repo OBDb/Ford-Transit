@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2203DC
 test_cases:
 - expected_values:
-    FORD_HPFP_DES: 37.70981
+    TRANSIT_HPFP_DES: 260
   response: 7E8056203DC001A
 - expected_values:
-    FORD_HPFP_DES: 1112.43946
+    TRANSIT_HPFP_DES: 7670
   response: 7E8056203DC02FF
 - expected_values:
-    FORD_HPFP_DES: 1113.88984
+    TRANSIT_HPFP_DES: 7680
   response: 7E8056203DC0300
 - expected_values:
-    FORD_HPFP_DES: 2599.0763
+    TRANSIT_HPFP_DES: 17920
   response: 7E8056203DC0700

@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.220542
 test_cases:
 - expected_values:
-    FORD_DIST_SINCE_OIL: 2437
+    TRANSIT_DIST_SINCE_OIL: 2437
   response: '7E8056205420985'
 - expected_values:
-    FORD_DIST_SINCE_OIL: 2559
+    TRANSIT_DIST_SINCE_OIL: 2559
   response: 7E80562054209FF
 - expected_values:
-    FORD_DIST_SINCE_OIL: 2560
+    TRANSIT_DIST_SINCE_OIL: 2560
   response: 7E8056205420A00

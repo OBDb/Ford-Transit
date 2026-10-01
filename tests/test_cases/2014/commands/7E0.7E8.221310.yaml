@@ -1,14 +1,24 @@
 command_id: 7E0.7E8.221310
 test_cases:
 - expected_values:
-    FORD_EOT_V2: 8
+    TRANSIT_EOT: 46
+  response: |-
+    221310
+    7E8056213102198
+- expected_values:
+    TRANSIT_EOT: 100
+  response: |-
+    221310
+    7E80562131036B0
+- expected_values:
+    TRANSIT_EOT: 8
   response: 7E80562131012C0
 - expected_values:
-    FORD_EOT_V2: 24
+    TRANSIT_EOT: 24
   response: '7E8056213101900'
 - expected_values:
-    FORD_EOT_V2: 47
+    TRANSIT_EOT: 47
   response: 7E80562131021FC
 - expected_values:
-    FORD_EOT_V2: 109
+    TRANSIT_EOT: 109
   response: 7E8056213103A34

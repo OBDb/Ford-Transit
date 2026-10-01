@@ -1,32 +1,32 @@
 command_id: 7E0.7E8.2203DC
 test_cases:
 - expected_values:
-    FORD_HPFP_DES: 3500
+    TRANSIT_HPFP_DES: 26220
   response: 7E8056203DC0A3E
 - expected_values:
-    FORD_HPFP_DES: 3500
+    TRANSIT_HPFP_DES: 26390
   response: 7E8056203DC0A4F
 - expected_values:
-    FORD_HPFP_DES: 3500
+    TRANSIT_HPFP_DES: 26730
   response: 7E8056203DC0A71
 - expected_values:
-    FORD_HPFP_DES: 3500
+    TRANSIT_HPFP_DES: 27950
   response: 7E8056203DC0AEB
 - expected_values:
-    FORD_HPFP_DES: 3500
+    TRANSIT_HPFP_DES: 33340
   response: 7E8056203DC0D06
 - expected_values:
-    FORD_HPFP_DES: 3500
+    TRANSIT_HPFP_DES: 33490
   response: 7E8056203DC0D15
 - expected_values:
-    FORD_HPFP_DES: 3500
+    TRANSIT_HPFP_DES: 35280
   response: 7E8056203DC0DC8
 - expected_values:
-    FORD_HPFP_DES: 3500
+    TRANSIT_HPFP_DES: 39100
   response: 7E8056203DC0F46
 - expected_values:
-    FORD_HPFP_DES: 3500
+    TRANSIT_HPFP_DES: 39250
   response: 7E8056203DC0F55
 - expected_values:
-    FORD_HPFP_DES: 3500
+    TRANSIT_HPFP_DES: 94040
   response: 7E8056203DC24BC

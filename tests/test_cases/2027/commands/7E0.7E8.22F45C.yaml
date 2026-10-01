@@ -1,11 +1,11 @@
-command_id: 7DF.22F45C
+command_id: 7E0.7E8.22F45C
 test_cases:
 - expected_values:
-    FORD_EOP: 57
+    TRANSIT_EOT_F45C: 17
   response: 7E80462F45C39
 - expected_values:
-    FORD_EOP: 102
+    TRANSIT_EOT_F45C: 62
   response: 7E80462F45C66
 - expected_values:
-    FORD_EOP: 110
+    TRANSIT_EOT_F45C: 70
   response: 7E80462F45C6E

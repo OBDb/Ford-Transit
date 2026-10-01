@@ -1,22 +1,17 @@
 command_id: 726.72E.224027
 test_cases:
 - expected_values:
-    FORD_12V_AGE: 19728
-    FORD_BATT_AGE: 822
+    TRANSIT_12V_AGE: 19728
   response: '72E056240270336'
 - expected_values:
-    FORD_12V_AGE: 19992
-    FORD_BATT_AGE: 833
+    TRANSIT_12V_AGE: 19992
   response: '72E056240270341'
 - expected_values:
-    FORD_12V_AGE: 20016
-    FORD_BATT_AGE: 834
+    TRANSIT_12V_AGE: 20016
   response: '72E056240270342'
 - expected_values:
-    FORD_12V_AGE: 20040
-    FORD_BATT_AGE: 835
+    TRANSIT_12V_AGE: 20040
   response: '72E056240270343'
 - expected_values:
-    FORD_12V_AGE: 20064
-    FORD_BATT_AGE: 836
+    TRANSIT_12V_AGE: 20064
   response: '72E056240270344'

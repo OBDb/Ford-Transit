@@ -1,18 +1,14 @@
 command_id: 7E0.7E8.22DD01|fc=1
 test_cases:
 - expected_values:
-    FORD_ODO: 64707
-    FORD_ODO_7E0: 64707
+    TRANSIT_ODO_7E0: 64707
   response: 7E80662DD0100FCC3
 - expected_values:
-    FORD_ODO: 64767
-    FORD_ODO_7E0: 64767
+    TRANSIT_ODO_7E0: 64767
   response: 7E80662DD0100FCFF
 - expected_values:
-    FORD_ODO: 65281
-    FORD_ODO_7E0: 65281
+    TRANSIT_ODO_7E0: 65281
   response: 7E80662DD0100FF01
 - expected_values:
-    FORD_ODO: 65536
-    FORD_ODO_7E0: 65536
+    TRANSIT_ODO_7E0: 65536
   response: 7E80662DD01010000

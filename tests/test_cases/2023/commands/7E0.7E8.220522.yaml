@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220522
 test_cases:
 - expected_values:
-    FORD_FUEL_T: 15
+    TRANSIT_FUEL_T: 15
   response: '7E80462052237'
 - expected_values:
-    FORD_FUEL_T: 38
+    TRANSIT_FUEL_T: 38
   response: 7E8046205224E

@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.220307
 test_cases:
 - expected_values:
-    FORD_LPFP_DUTY: 30.08118
+    TRANSIT_LPFP_DUTY: 30.08118
   response: '7E8056203072681'
 - expected_values:
-    FORD_LPFP_DUTY: 31.24695
+    TRANSIT_LPFP_DUTY: 31.24695
   response: 7E80562030727FF
 - expected_values:
-    FORD_LPFP_DUTY: 31.25
+    TRANSIT_LPFP_DUTY: 31.25
   response: '7E8056203072800'
 - expected_values:
-    FORD_LPFP_DUTY: 75
+    TRANSIT_LPFP_DUTY: 75
   response: '7E8056203076000'

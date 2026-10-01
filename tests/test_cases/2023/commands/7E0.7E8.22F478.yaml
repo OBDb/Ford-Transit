@@ -1,25 +1,25 @@
 command_id: 7E0.7E8.22F478
 test_cases:
 - expected_values:
+    TRANSIT_EGT_B1: 37.4
+  response: |-
+    7E8100C62F47803060A
+    7E82106BC76E476E400
+- expected_values:
     TRANSIT_EGT_B1: 37.6
   response: |-
-    7E8100C62F478030879
-    7E82109FD76E476E400
-- expected_values:
-    TRANSIT_EGT_B1: 37.7
-  response: |-
-    7E8100C62F47803096E
+    7E8100C62F4780308D5
     7E82108CF76E476E400
 - expected_values:
     TRANSIT_EGT_B1: 37.7
   response: |-
-    7E8100C62F47803098C
-    7E8210B8076E476E400
+    7E8100C62F478030969
+    7E8210A0076E476E400
 - expected_values:
-    TRANSIT_EGT_B1: 38.1
+    TRANSIT_EGT_B1: 37.9
   response: |-
-    7E8100C62F478030D02
-    7E8210E6D76E476E400
+    7E8100C62F478030B00
+    7E8210C3A76E476E400
 - expected_values:
     TRANSIT_EGT_B1: 38.1
   response: |-

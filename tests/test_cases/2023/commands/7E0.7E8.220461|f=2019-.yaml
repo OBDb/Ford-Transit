@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220461|f=2019-
+test_cases:
+- expected_values:
+    TRANSIT_CHG_AIR_T_2: -36.15625
+  response: 7E80562046100F6
+- expected_values:
+    TRANSIT_CHG_AIR_T_2: -31.60938
+  response: '7E8056204610219'
+- expected_values:
+    TRANSIT_CHG_AIR_T_2: -18.90625
+  response: '7E8056204610546'

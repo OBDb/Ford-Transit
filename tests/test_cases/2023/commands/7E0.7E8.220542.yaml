@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     TRANSIT_DIST_SINCE_OIL: 2560
   response: 7E8056205420A00
+- expected_values:
+    TRANSIT_DIST_SINCE_OIL: 3240
+  response: 7E8056205420CA8

@@ -1,26 +1,14 @@
 command_id: 7E0.7E8.220304
 test_cases:
 - expected_values:
-    TRANSIT_CMD_GEN_V: 14.90645
-  response: '7E8056203047752'
+    TRANSIT_CMD_GEN_V: 14.76151
+  response: '7E8056203047629'
 - expected_values:
-    TRANSIT_CMD_GEN_V: 14.92646
-  response: 7E805620304777B
+    TRANSIT_CMD_GEN_V: 14.86594
+  response: 7E80562030476FF
 - expected_values:
-    TRANSIT_CMD_GEN_V: 14.94012
-  response: '7E8056203047797'
+    TRANSIT_CMD_GEN_V: 14.99234
+  response: '7E8056203047802'
 - expected_values:
-    TRANSIT_CMD_GEN_V: 14.95769
-  response: 7E80562030477BB
-- expected_values:
-    TRANSIT_CMD_GEN_V: 14.98794
-  response: 7E80562030477F9
-- expected_values:
-    TRANSIT_CMD_GEN_V: 14.99282
-  response: '7E8056203047803'
-- expected_values:
-    TRANSIT_CMD_GEN_V: 15.00014
-  response: '7E8056203047812'
-- expected_values:
-    TRANSIT_CMD_GEN_V: 15.00502
-  response: 7E805620304781C
+    TRANSIT_CMD_GEN_V: 15.13825
+  response: 7E805620304792D

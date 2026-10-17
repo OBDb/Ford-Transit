@@ -1,26 +1,14 @@
 command_id: 7E0.7E8.220370
 test_cases:
 - expected_values:
-    TRANSIT_MAP_HIRES: 36
-  response: '7E8056203700090'
-- expected_values:
-    TRANSIT_MAP_HIRES: 53.25
-  response: 7E80562037000D5
-- expected_values:
-    TRANSIT_MAP_HIRES: 54.25
-  response: 7E80562037000D9
+    TRANSIT_MAP_HIRES: 21.25
+  response: '7E8056203700055'
 - expected_values:
     TRANSIT_MAP_HIRES: 63.25
   response: 7E80562037000FD
 - expected_values:
-    TRANSIT_MAP_HIRES: 69
-  response: '7E8056203700114'
+    TRANSIT_MAP_HIRES: 64
+  response: '7E8056203700100'
 - expected_values:
-    TRANSIT_MAP_HIRES: 86.5
-  response: 7E805620370015A
-- expected_values:
-    TRANSIT_MAP_HIRES: 96.5
-  response: '7E8056203700182'
-- expected_values:
-    TRANSIT_MAP_HIRES: 101.75
-  response: '7E8056203700197'
+    TRANSIT_MAP_HIRES: 128
+  response: '7E8056203700200'

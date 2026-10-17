@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22F434
+test_cases:
+- expected_values:
+    TRANSIT_AIR_FUEL_RAT: 13.21641
+  response: 7E80762F434738D7FA3
+- expected_values:
+    TRANSIT_AIR_FUEL_RAT: 13.92054
+  response: 7E80762F43479B57FDB
+- expected_values:
+    TRANSIT_AIR_FUEL_RAT: 14.34365
+  response: 7E80762F4347D687FF1
+- expected_values:
+    TRANSIT_AIR_FUEL_RAT: 14.44016
+  response: 7E80762F4347E407FFD
+- expected_values:
+    TRANSIT_AIR_FUEL_RAT: 14.51879
+  response: 7E80762F4347EF07FE8
+- expected_values:
+    TRANSIT_AIR_FUEL_RAT: 14.52951
+  response: 7E80762F4347F087FEF
+- expected_values:
+    TRANSIT_AIR_FUEL_RAT: 15.03706
+  response: 7E80762F43483788005
+- expected_values:
+    TRANSIT_AIR_FUEL_RAT: 15.13357
+  response: 7E80762F43484508011

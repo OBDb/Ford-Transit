@@ -1,0 +1,27 @@
+command_id: 726.72E.22280B
+test_cases:
+- expected_values:
+    TRANSIT_TYRE_T: 17
+  response: |-
+    72E100C62280B6BB6A1
+    72E216204833966D4CC
+- expected_values:
+    TRANSIT_TYRE_T: 215
+  response: |-
+    72E100C62280B6BB6A1
+    72E21620483FF6B92CC
+- expected_values:
+    TRANSIT_TYRE_T: 18
+  response: |-
+    72E100C62280B6BB6A1
+    72E216204923A66D8CC
+- expected_values:
+    TRANSIT_TYRE_T: 16
+  response: |-
+    72E100C62280B6BB6A1
+    72E21BA058738665FCC
+- expected_values:
+    TRANSIT_TYRE_T: 17
+  response: |-
+    72E100C62280B6BB6A1
+    72E21E40483396656CC

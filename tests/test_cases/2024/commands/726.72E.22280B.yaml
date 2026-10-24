@@ -6,15 +6,15 @@ test_cases:
     72E100C62280B356E7F
     72E21B902673A06A6CC
 - expected_values:
+    TRANSIT_TYRE_T: null
+  response: |-
+    72E100C62280B356E7F
+    72E21B90267FF4664CC
+- expected_values:
     TRANSIT_TYRE_T: 35
   response: |-
     72E100C62280B36914A
     72E212203894B4689CC
-- expected_values:
-    TRANSIT_TYRE_T: 215
-  response: |-
-    72E100C62280B36C851
-    72E21A802FDFF46A3CC
 - expected_values:
     TRANSIT_TYRE_T: 31
   response: |-
@@ -25,6 +25,11 @@ test_cases:
   response: |-
     72E100C62280B6BB69C
     72E219905A03C6642CC
+- expected_values:
+    TRANSIT_TYRE_T: 22
+  response: |-
+    72E100C62280B6BB69C
+    72E219905AA3E6646CC
 - expected_values:
     TRANSIT_TYRE_T: 25
   response: |-
@@ -46,11 +51,6 @@ test_cases:
     72E100C62280B6BB6A1
     72E216204833966D4CC
 - expected_values:
-    TRANSIT_TYRE_T: 215
-  response: |-
-    72E100C62280B6BB6A1
-    72E21620483FF6B92CC
-- expected_values:
     TRANSIT_TYRE_T: 26
   response: |-
     72E100C62280B6BB6A1
@@ -60,6 +60,11 @@ test_cases:
   response: |-
     72E100C62280B6BB6A1
     72E21BA058738665FCC
+- expected_values:
+    TRANSIT_TYRE_T: -4
+  response: |-
+    72E100C62280B6BB6A1
+    72E21BA05B4246B59CC
 - expected_values:
     TRANSIT_TYRE_T: 17
   response: |-

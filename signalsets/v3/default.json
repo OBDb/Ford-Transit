@@ -332,7 +332,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0353"}, "freq": 5, "dbgfilter": { "to": 2014, "years": [2016, 2017, 2019, 2020, 2022], "from": 2026 },
   "signals": [
-    {"id": "TRANSIT_BARO", "path": "Engine", "fmt": { "len": 16, "max": 20, "min": 8, "mul": 615, "div": 16963, "unit": "psi" }, "name": "Barometric pressure"}
+    {"id": "TRANSIT_BARO", "path": "Engine", "fmt": { "len": 16, "max": 20, "min": 8, "mul": 615, "div": 16963, "unit": "psi" }, "name": "Barometric pressure", "suggestedMetric": "barometricPressure"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "035A"}, "freq": 1, "dbgfilter": { "to": 2013, "years": [2015, 2016, 2017, 2018, 2019, 2020, 2022], "from": 2026 },
   "signals": [
@@ -725,7 +725,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "09DB"}, "freq": 1,
   "signals": [
-    {"id": "TRANSIT_TURBO_BOOST", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "kilopascal" }, "name": "Turbo boost"}
+    {"id": "TRANSIT_TURBO_BOOST", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "kilopascal" }, "name": "Turbo boost", "suggestedMetric": "absoluteBoostPressure"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "09FE"}, "freq": 1,
   "signals": [
@@ -1051,7 +1051,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F40B"}, "freq": 0.25, "dbgfilter": { "to": 2013, "years": [2015, 2016, 2017, 2019, 2020, 2022, 2026], "from": 2028 },
   "signals": [
-    {"id": "TRANSIT_MAP", "path": "Engine", "fmt": { "len": 8, "max": 36, "mul": 10000, "div": 68947, "unit": "psi" }, "name": "Manifold pressure"}
+    {"id": "TRANSIT_MAP", "path": "Engine", "fmt": { "len": 8, "max": 36, "mul": 10000, "div": 68947, "unit": "psi" }, "name": "Manifold pressure", "suggestedMetric": "absoluteBoostPressure"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F40C"}, "freq": 0.25, "dbgfilter": { "to": 2013, "years": [2016, 2017, 2019, 2020, 2022, 2026], "from": 2028 },
   "signals": [

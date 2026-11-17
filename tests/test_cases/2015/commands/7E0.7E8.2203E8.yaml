@@ -1,5 +1,5 @@
 command_id: 7E0.7E8.2203E8
 test_cases:
 - expected_values:
-    TRANSIT_OAR: 0
+    TRANSIT_OAR: -0.27643
   response: 7E8056203E8EE4F

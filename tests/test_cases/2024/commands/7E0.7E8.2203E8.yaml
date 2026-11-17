@@ -7,8 +7,8 @@ test_cases:
     TRANSIT_OAR: 0.12408
   response: 7E8056203E807F1
 - expected_values:
-    TRANSIT_OAR: 0
+    TRANSIT_OAR: -0.07806
   response: 7E8056203E8FB01
 - expected_values:
-    TRANSIT_OAR: 0
+    TRANSIT_OAR: -0.01489
   response: 7E8056203E8FF0C

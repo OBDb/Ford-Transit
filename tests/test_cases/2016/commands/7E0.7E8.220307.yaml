@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220307
+test_cases:
+- expected_values:
+    TRANSIT_LPFP_DUTY: 29.51355
+  response: 7E80562030725C7
+- expected_values:
+    TRANSIT_LPFP_DUTY: 29.55017
+  response: 7E80562030725D3
+- expected_values:
+    TRANSIT_LPFP_DUTY: 29.56238
+  response: 7E80562030725D7

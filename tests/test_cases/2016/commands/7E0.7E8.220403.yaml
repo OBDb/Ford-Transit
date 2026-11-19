@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220403
+test_cases:
+- expected_values:
+    TRANSIT_KS1_RAW: 81
+  response: '7E8056204030051'
+- expected_values:
+    TRANSIT_KS1_RAW: 111
+  response: 7E805620403006F
+- expected_values:
+    TRANSIT_KS1_RAW: 124
+  response: 7E805620403007C

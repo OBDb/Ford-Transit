@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22116B
+test_cases:
+- expected_values:
+    TRANSIT_IGN_TIM_CYL1: 16.75
+  response: 7E80562116B0043
+- expected_values:
+    TRANSIT_IGN_TIM_CYL1: 18.75
+  response: 7E80562116B004B
+- expected_values:
+    TRANSIT_IGN_TIM_CYL1: 20.25
+  response: 7E80562116B0051

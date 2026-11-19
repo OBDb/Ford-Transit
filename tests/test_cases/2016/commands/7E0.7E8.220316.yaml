@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220316
+test_cases:
+- expected_values:
+    TRANSIT_VCT_INT_DUTY: 31.74744
+  response: 7E80562031628A3
+- expected_values:
+    TRANSIT_VCT_INT_DUTY: 33.47473
+  response: 7E8056203162AD9

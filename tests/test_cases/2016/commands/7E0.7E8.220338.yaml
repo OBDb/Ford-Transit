@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220338
+test_cases:
+- expected_values:
+    TRANSIT_ETC_TRIM_LRN: 1.21289
+  response: 7E805620338026D
+- expected_values:
+    TRANSIT_ETC_TRIM_LRN: 1.21484
+  response: 7E805620338026E

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22038C
+test_cases:
+- expected_values:
+    TRANSIT_PCM_MISF_ACCEL_CYL5_NORM: 0
+  response: 7E80462038C00
+- expected_values:
+    TRANSIT_PCM_MISF_ACCEL_CYL5_NORM: -0.39062
+  response: 7E80462038CE7
+- expected_values:
+    TRANSIT_PCM_MISF_ACCEL_CYL5_NORM: -0.29688
+  response: 7E80462038CED
+- expected_values:
+    TRANSIT_PCM_MISF_ACCEL_CYL5_NORM: -0.25
+  response: 7E80462038CF0

@@ -1,0 +1,7 @@
+command_id: 726.72E.22280B
+test_cases:
+- expected_values:
+    TRANSIT_TYRE_T: 23
+  response: |-
+    72E100C62280B375C89
+    72E21D404923F265900

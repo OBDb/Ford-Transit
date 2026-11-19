@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22030F
+test_cases:
+- expected_values:
+    TRANSIT_CL: 0.99933
+  response: 7E80562030F7FEA
+- expected_values:
+    TRANSIT_CL: 1.00836
+  response: 7E80562030F8112

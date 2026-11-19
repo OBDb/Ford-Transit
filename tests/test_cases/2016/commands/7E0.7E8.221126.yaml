@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221126
+test_cases:
+- expected_values:
+    TRANSIT_ERT: 88
+  response: '7E80462112658'
+- expected_values:
+    TRANSIT_ERT: 219
+  response: 7E804621126DB

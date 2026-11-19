@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F434
+test_cases:
+- expected_values:
+    TRANSIT_AIR_FUEL_RAT: 14.51834
+  response: 7E80762F4347EEF7FD7
+- expected_values:
+    TRANSIT_AIR_FUEL_RAT: 14.78597
+  response: 7E80762F43481467FF6

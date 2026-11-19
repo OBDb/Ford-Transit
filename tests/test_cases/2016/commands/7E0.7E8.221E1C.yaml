@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221E1C
+test_cases:
+- expected_values:
+    TRANSIT_TOT: 10.8125
+  response: 7E805621E1C00AD
+- expected_values:
+    TRANSIT_TOT: 11
+  response: 7E805621E1C00B0
+- expected_values:
+    TRANSIT_TOT: 11.875
+  response: 7E805621E1C00BE
+- expected_values:
+    TRANSIT_TOT: 13.3125
+  response: 7E805621E1C00D5
+- expected_values:
+    TRANSIT_TOT: 13.5
+  response: 7E805621E1C00D8

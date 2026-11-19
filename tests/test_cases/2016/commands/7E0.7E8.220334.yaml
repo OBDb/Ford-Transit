@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220334
+test_cases:
+- expected_values:
+    TRANSIT_PCM_CYL_HEAD_T_CORR: 28.85938
+  response: '7E8056203340737'
+- expected_values:
+    TRANSIT_PCM_CYL_HEAD_T_CORR: 46.23438
+  response: 7E8056203340B8F
+- expected_values:
+    TRANSIT_PCM_CYL_HEAD_T_CORR: 49.17188
+  response: 7E8056203340C4B

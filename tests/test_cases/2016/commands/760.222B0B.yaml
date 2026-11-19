@@ -1,0 +1,8 @@
+command_id: 760.222B0B
+test_cases:
+- expected_values:
+    TRANSIT_YAW_RATE_SIG: 0
+  response: 76805622B0B0000
+- expected_values:
+    TRANSIT_YAW_RATE_SIG: 0.2
+  response: 76805622B0B0001

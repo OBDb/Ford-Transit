@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22F42F
+test_cases:
+- expected_values:
+    TRANSIT_FLI_7E0_7E0: 67.05882
+  response: 7E80462F42FAB

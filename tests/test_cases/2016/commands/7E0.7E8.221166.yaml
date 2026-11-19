@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221166
+test_cases:
+- expected_values:
+    TRANSIT_EVAP_PURGE_CMD: 0
+  response: '7E8056211660000'
+- expected_values:
+    TRANSIT_EVAP_PURGE_CMD: 6.34155
+  response: 7E805621166081E
+- expected_values:
+    TRANSIT_EVAP_PURGE_CMD: 60.35156
+  response: 7E8056211664D40

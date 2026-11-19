@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221E1A
+test_cases:
+- expected_values:
+    TRANSIT_PCM_CMD_TRANS_MAIN_LINE_P: 410
+  response: 7E805621E1A00CD
+- expected_values:
+    TRANSIT_PCM_CMD_TRANS_MAIN_LINE_P: 412
+  response: 7E805621E1A00CE
+- expected_values:
+    TRANSIT_PCM_CMD_TRANS_MAIN_LINE_P: 422
+  response: 7E805621E1A00D3

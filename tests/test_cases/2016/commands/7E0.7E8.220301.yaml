@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220301
+test_cases:
+- expected_values:
+    TRANSIT_MAP_V: 1.30273
+  response: '7E8056203010536'
+- expected_values:
+    TRANSIT_MAP_V: 1.31348
+  response: '7E8056203010541'
+- expected_values:
+    TRANSIT_MAP_V: 1.44922
+  response: 7E80562030105CC

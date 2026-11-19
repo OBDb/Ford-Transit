@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2204F7
+test_cases:
+- expected_values:
+    TRANSIT_GEN_CURRENT: 56.68498
+  response: 7E8056204F70E2D
+- expected_values:
+    TRANSIT_GEN_CURRENT: 58.37194
+  response: 7E8056204F70E99

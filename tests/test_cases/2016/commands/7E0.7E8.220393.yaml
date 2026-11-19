@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220393
+test_cases:
+- expected_values:
+    TRANSIT_AC_P: 78.32038
+  response: 7E805620393010E
+- expected_values:
+    TRANSIT_AC_P: 82.67152
+  response: 7E805620393011D
